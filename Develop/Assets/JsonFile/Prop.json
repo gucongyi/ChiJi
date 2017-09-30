@@ -1,0 +1,15 @@
+[
+	{"Field":"good","id":"物品ID","prefabName":"模型名称","icon":"图标","name":"名称","weight":"weight","dec":"说明","type":"type","range":"range","effect_value":"显示射程"},
+	{"Field":"type","id":"int","prefabName":"str","icon":"str","name":"str","weight":"int","dec":"str","type":"str","range":"int_s","effect_value":"int"},
+	{"Field":"value","id":"2001","prefabName":"Dia_Attack","icon":"Dia_Attack","name":"攻击宝石","weight":"2","dec":"提高伤害","type":"power","range":"0,10;0,10;0,10;0,10","effect_value":"5"},
+	{"Field":"value","id":"2002","prefabName":"Dia_Range","icon":"Dia_Range","name":"射程宝石","weight":"3","dec":"提高射程","type":"range","range":"5,0;5,0;5,0;5,0","effect_value":"10"},
+	{"Field":"value","id":"2003","prefabName":"Dia_BulletCapa","icon":"Dia_BulletCapa","name":"子弹宝石","weight":"4","dec":"提高容弹量","type":"bullet","range":"15","effect_value":"5"},
+	{"Field":"value","id":"2004","prefabName":"Dia_Rate","icon":"Dia_Rate","name":"射速宝石","weight":"1","dec":"提高射速","type":"rate","range":"50","effect_value":"20"},
+	{"Field":"value","id":"2005","prefabName":"Dia_Reload","icon":"Dia_Reload","name":"换弹宝石","weight":"2","dec":"提高换弹速度","type":"weight","range":"0.3","effect_value":"5"},
+	{"Field":"value","id":"4001","prefabName":"Poison","icon":"IconBkg","name":"立即恢复药水","weight":"1","dec":"立即恢复生命值"},
+	{"Field":"value","id":"4002","prefabName":"Pill","icon":"IconBkg","name":"持续恢复药丸","weight":"2","dec":"持续恢复生命值"},
+	{"Field":"value","id":"5001","prefabName":"Skill_Sprint","icon":"Skill_Sprint","name":"疾跑","weight":"1","dec":"很快的跑一段路"},
+	{"Field":"value","id":"5002","prefabName":"Skill_Roll","icon":"Skill_Roll","name":"翻滚","weight":"1","dec":"极快的滚动"},
+	{"Field":"value","id":"5003","prefabName":"Skill_DrillIn","icon":"Skill_DrillIn","name":"钻地","weight":"1","dec":"钻入地下，伺机待发"},
+	{"Field":"value","id":"6001","prefabName":"commonProp","icon":"IconWear","name":"防弹衣","weight":"8","dec":"在坏掉之前，可以吸收一部分伤害","type":"20%","range":"100"}
+]

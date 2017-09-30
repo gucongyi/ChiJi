@@ -1,0 +1,1113 @@
+fileFormatVersion: 2
+guid: 35aee29fb18343f4696c35056adb14d0
+timeCreated: 1503554629
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Assassin_Cat_Body
+    100002: //RootNode
+    100004: AssassinCat__LeftArm
+    100006: AssassinCat__RightArm
+    100008: AssassinCat_Chin1
+    100010: AssassinCat_Chin2
+    100012: AssassinCat_Cloth_Front01_1
+    100014: AssassinCat_Cloth_Front01_2
+    100016: AssassinCat_Cloth_Front01_3
+    100018: AssassinCat_Cloth_Left01_1
+    100020: AssassinCat_Cloth_Left01_2
+    100022: AssassinCat_Cloth_Left01_3
+    100024: AssassinCat_Cloth_Left02_1
+    100026: AssassinCat_Cloth_Left02_2
+    100028: AssassinCat_Cloth_Left02_3
+    100030: AssassinCat_Cloth_Left03_1
+    100032: AssassinCat_Cloth_Left03_2
+    100034: AssassinCat_Cloth_Left03_3
+    100036: AssassinCat_Cloth_Right01_1
+    100038: AssassinCat_Cloth_Right01_2
+    100040: AssassinCat_Cloth_Right01_3
+    100042: AssassinCat_Cloth_Right02_1
+    100044: AssassinCat_Cloth_Right02_2
+    100046: AssassinCat_Cloth_Right02_3
+    100048: AssassinCat_Cloth_Right03_1
+    100050: AssassinCat_Cloth_Right03_2
+    100052: AssassinCat_Cloth_Right03_3
+    100054: AssassinCat_Cloth_Root
+    100056: AssassinCat_Head
+    100058: AssassinCat_Hips
+    100060: AssassinCat_LeftDownEyelid
+    100062: AssassinCat_LeftDownEyelid1
+    100064: AssassinCat_LeftEar1
+    100066: AssassinCat_LeftEar3
+    100068: AssassinCat_LeftEye
+    100070: AssassinCat_LeftEye0
+    100072: AssassinCat_LeftFoot
+    100074: AssassinCat_LeftForeArm
+    100076: AssassinCat_LeftHand
+    100078: AssassinCat_LeftHandIndex1
+    100080: AssassinCat_LeftHandIndex2
+    100082: AssassinCat_LeftHandIndex3
+    100084: AssassinCat_LeftHandMiddle1
+    100086: AssassinCat_LeftHandMiddle2
+    100088: AssassinCat_LeftHandMiddle3
+    100090: AssassinCat_LeftHandRing1
+    100092: AssassinCat_LeftHandRing2
+    100094: AssassinCat_LeftHandRing3
+    100096: AssassinCat_LeftHandThumb1
+    100098: AssassinCat_LeftHandThumb2
+    100100: AssassinCat_LeftHandThumb3
+    100102: AssassinCat_LeftHandWeaponPoint
+    100104: AssassinCat_LeftLeg
+    100106: AssassinCat_LeftShoulder
+    100108: AssassinCat_LeftToeBase
+    100110: AssassinCat_LeftUpEyelid
+    100112: AssassinCat_LeftUpEyelid1
+    100114: AssassinCat_LeftUpLeg
+    100116: AssassinCat_Neck
+    100118: AssassinCat_Reference
+    100120: AssassinCat_RightDownEyelid
+    100122: AssassinCat_RightDownEyelid1
+    100124: AssassinCat_RightEar1
+    100126: AssassinCat_RightEar3
+    100128: AssassinCat_RightEye
+    100130: AssassinCat_RightEye0
+    100132: AssassinCat_RightFoot
+    100134: AssassinCat_RightForeArm
+    100136: AssassinCat_RightHand
+    100138: AssassinCat_RightHandIndex1
+    100140: AssassinCat_RightHandIndex2
+    100142: AssassinCat_RightHandIndex3
+    100144: AssassinCat_RightHandMiddle1
+    100146: AssassinCat_RightHandMiddle2
+    100148: AssassinCat_RightHandMiddle3
+    100150: AssassinCat_RightHandRing1
+    100152: AssassinCat_RightHandRing2
+    100154: AssassinCat_RightHandRing3
+    100156: AssassinCat_RightHandThumb1
+    100158: AssassinCat_RightHandThumb2
+    100160: AssassinCat_RightHandThumb3
+    100162: AssassinCat_RightHandWeaponPoint
+    100164: AssassinCat_RightLeg
+    100166: AssassinCat_RightShoulder
+    100168: AssassinCat_RightToeBase
+    100170: AssassinCat_RightUpEyelid
+    100172: AssassinCat_RightUpEyelid1
+    100174: AssassinCat_RightUpLeg
+    100176: AssassinCat_Spine
+    100178: AssassinCat_Spine1
+    100180: AssassinCat_Spine2
+    100182: AssassinCat_Tail1
+    100184: AssassinCat_Tail2
+    100186: AssassinCat_Tail3
+    100188: AssassinCat_Tail4
+    100190: AssassinCat_Tail5
+    100192: AssassinCat_Tail6
+    100194: AssassinCat_Tail7
+    100196: joint2AssassinCat_LeftEar2
+    100198: joint2AssassinCat_RightEar2
+    400000: Assassin_Cat_Body
+    400002: //RootNode
+    400004: AssassinCat__LeftArm
+    400006: AssassinCat__RightArm
+    400008: AssassinCat_Chin1
+    400010: AssassinCat_Chin2
+    400012: AssassinCat_Cloth_Front01_1
+    400014: AssassinCat_Cloth_Front01_2
+    400016: AssassinCat_Cloth_Front01_3
+    400018: AssassinCat_Cloth_Left01_1
+    400020: AssassinCat_Cloth_Left01_2
+    400022: AssassinCat_Cloth_Left01_3
+    400024: AssassinCat_Cloth_Left02_1
+    400026: AssassinCat_Cloth_Left02_2
+    400028: AssassinCat_Cloth_Left02_3
+    400030: AssassinCat_Cloth_Left03_1
+    400032: AssassinCat_Cloth_Left03_2
+    400034: AssassinCat_Cloth_Left03_3
+    400036: AssassinCat_Cloth_Right01_1
+    400038: AssassinCat_Cloth_Right01_2
+    400040: AssassinCat_Cloth_Right01_3
+    400042: AssassinCat_Cloth_Right02_1
+    400044: AssassinCat_Cloth_Right02_2
+    400046: AssassinCat_Cloth_Right02_3
+    400048: AssassinCat_Cloth_Right03_1
+    400050: AssassinCat_Cloth_Right03_2
+    400052: AssassinCat_Cloth_Right03_3
+    400054: AssassinCat_Cloth_Root
+    400056: AssassinCat_Head
+    400058: AssassinCat_Hips
+    400060: AssassinCat_LeftDownEyelid
+    400062: AssassinCat_LeftDownEyelid1
+    400064: AssassinCat_LeftEar1
+    400066: AssassinCat_LeftEar3
+    400068: AssassinCat_LeftEye
+    400070: AssassinCat_LeftEye0
+    400072: AssassinCat_LeftFoot
+    400074: AssassinCat_LeftForeArm
+    400076: AssassinCat_LeftHand
+    400078: AssassinCat_LeftHandIndex1
+    400080: AssassinCat_LeftHandIndex2
+    400082: AssassinCat_LeftHandIndex3
+    400084: AssassinCat_LeftHandMiddle1
+    400086: AssassinCat_LeftHandMiddle2
+    400088: AssassinCat_LeftHandMiddle3
+    400090: AssassinCat_LeftHandRing1
+    400092: AssassinCat_LeftHandRing2
+    400094: AssassinCat_LeftHandRing3
+    400096: AssassinCat_LeftHandThumb1
+    400098: AssassinCat_LeftHandThumb2
+    400100: AssassinCat_LeftHandThumb3
+    400102: AssassinCat_LeftHandWeaponPoint
+    400104: AssassinCat_LeftLeg
+    400106: AssassinCat_LeftShoulder
+    400108: AssassinCat_LeftToeBase
+    400110: AssassinCat_LeftUpEyelid
+    400112: AssassinCat_LeftUpEyelid1
+    400114: AssassinCat_LeftUpLeg
+    400116: AssassinCat_Neck
+    400118: AssassinCat_Reference
+    400120: AssassinCat_RightDownEyelid
+    400122: AssassinCat_RightDownEyelid1
+    400124: AssassinCat_RightEar1
+    400126: AssassinCat_RightEar3
+    400128: AssassinCat_RightEye
+    400130: AssassinCat_RightEye0
+    400132: AssassinCat_RightFoot
+    400134: AssassinCat_RightForeArm
+    400136: AssassinCat_RightHand
+    400138: AssassinCat_RightHandIndex1
+    400140: AssassinCat_RightHandIndex2
+    400142: AssassinCat_RightHandIndex3
+    400144: AssassinCat_RightHandMiddle1
+    400146: AssassinCat_RightHandMiddle2
+    400148: AssassinCat_RightHandMiddle3
+    400150: AssassinCat_RightHandRing1
+    400152: AssassinCat_RightHandRing2
+    400154: AssassinCat_RightHandRing3
+    400156: AssassinCat_RightHandThumb1
+    400158: AssassinCat_RightHandThumb2
+    400160: AssassinCat_RightHandThumb3
+    400162: AssassinCat_RightHandWeaponPoint
+    400164: AssassinCat_RightLeg
+    400166: AssassinCat_RightShoulder
+    400168: AssassinCat_RightToeBase
+    400170: AssassinCat_RightUpEyelid
+    400172: AssassinCat_RightUpEyelid1
+    400174: AssassinCat_RightUpLeg
+    400176: AssassinCat_Spine
+    400178: AssassinCat_Spine1
+    400180: AssassinCat_Spine2
+    400182: AssassinCat_Tail1
+    400184: AssassinCat_Tail2
+    400186: AssassinCat_Tail3
+    400188: AssassinCat_Tail4
+    400190: AssassinCat_Tail5
+    400192: AssassinCat_Tail6
+    400194: AssassinCat_Tail7
+    400196: joint2AssassinCat_LeftEar2
+    400198: joint2AssassinCat_RightEar2
+    4300000: Assassin_Cat_Body
+    9500000: //RootNode
+    13700000: Assassin_Cat_Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: AssassinCat_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat__LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat__RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint2AssassinCat_LeftEar2
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint2AssassinCat_RightEar2
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_Chin1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: AssassinCat_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: AssassinCat(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Assassin_Cat_Body
+      parentName: AssassinCat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Reference
+      parentName: AssassinCat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Hips
+      parentName: AssassinCat_Reference
+      position: {x: 1.3793603e-33, y: 0.54281765, z: 1.2424171e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Root
+      parentName: AssassinCat_Hips
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right03_1
+      parentName: AssassinCat_Cloth_Root
+      position: {x: 0.088902, y: 0.038384303, z: -0.115681}
+      rotation: {x: 0.69643044, y: -0.40495813, z: -0.53906024, w: 0.24577965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right03_2
+      parentName: AssassinCat_Cloth_Right03_1
+      position: {x: 0.14918858, y: -0.00008130022, z: 0.00000051915555}
+      rotation: {x: 0.000000012955747, y: 8.8855423e-10, z: -0.008302747, w: 0.99996555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right03_3
+      parentName: AssassinCat_Cloth_Right03_2
+      position: {x: 0.2285356, y: -0.0006411594, z: -0.00000068695044}
+      rotation: {x: 0.000000019726672, y: 1.2799087e-10, z: 0.0064880773, w: 0.99997896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right02_1
+      parentName: AssassinCat_Cloth_Root
+      position: {x: 0.155958, y: 0.035128303, z: -0.07433}
+      rotation: {x: 0.83859277, y: -0.45768377, z: -0.27410322, w: 0.1102509}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right02_2
+      parentName: AssassinCat_Cloth_Right02_1
+      position: {x: 0.15633756, y: 0.00035030287, z: 0.00000056351405}
+      rotation: {x: 0, y: 0, z: 0.030082323, w: 0.9995475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right02_3
+      parentName: AssassinCat_Cloth_Right02_2
+      position: {x: 0.22565296, y: -0.000678429, z: 0.00000021883834}
+      rotation: {x: 0.000000014910848, y: 9.674477e-11, z: 0.0064880773, w: 0.99997896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right01_1
+      parentName: AssassinCat_Cloth_Root
+      position: {x: 0.157209, y: 0.0079483045, z: 0.0427528}
+      rotation: {x: 0.820491, y: -0.5381936, z: 0.09345066, w: -0.16855003}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right01_2
+      parentName: AssassinCat_Cloth_Right01_1
+      position: {x: 0.15053126, y: -0.00000037265337, z: 0.0000002032188}
+      rotation: {x: 0, y: 0, z: 0.030082325, w: 0.9995475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Right01_3
+      parentName: AssassinCat_Cloth_Right01_2
+      position: {x: 0.26890057, y: -0.00011663863, z: -0.00000023750886}
+      rotation: {x: 0, y: 0, z: 0.0064880773, w: 0.99997896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Front01_1
+      parentName: AssassinCat_Cloth_Root
+      position: {x: -0, y: 0.00402217, z: 0.1519642}
+      rotation: {x: 0.49912512, y: 0.5008734, z: 0.49912512, w: 0.5008734}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Front01_2
+      parentName: AssassinCat_Cloth_Front01_1
+      position: {x: -0.08551322, y: -1.7555401e-17, z: -1.949041e-33}
+      rotation: {x: 0, y: 0, z: -0.011459814, w: 0.9999344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Front01_3
+      parentName: AssassinCat_Cloth_Front01_2
+      position: {x: -0.1471571, y: 1.3822277e-16, z: 3.7442984e-19}
+      rotation: {x: -0.49335244, y: -0.5065604, z: -0.49335244, w: 0.5065604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left03_1
+      parentName: AssassinCat_Cloth_Root
+      position: {x: -0.08890197, y: 0.038383923, z: -0.11568146}
+      rotation: {x: -0.24577965, y: -0.53906024, z: 0.40495813, w: 0.69643044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left03_2
+      parentName: AssassinCat_Cloth_Left03_1
+      position: {x: -0.14918822, y: 0.0000808839, z: 0}
+      rotation: {x: 0, y: 0, z: -0.008302744, w: 0.99996555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left03_3
+      parentName: AssassinCat_Cloth_Left03_2
+      position: {x: -0.22853498, y: 0.0006410213, z: 5.3290704e-17}
+      rotation: {x: 0, y: 0, z: 0.0064880773, w: 0.99997896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left02_1
+      parentName: AssassinCat_Cloth_Root
+      position: {x: -0.15595762, y: 0.035128165, z: -0.07433001}
+      rotation: {x: -0.11025089, y: -0.27410322, z: 0.45768377, w: 0.83859277}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left02_2
+      parentName: AssassinCat_Cloth_Left02_1
+      position: {x: -0.15633772, y: -0.0003498483, z: -7.105427e-17}
+      rotation: {x: 0, y: 0, z: 0.030082325, w: 0.9995475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left02_3
+      parentName: AssassinCat_Cloth_Left02_2
+      position: {x: -0.22565272, y: 0.0006784241, z: 5.3290704e-17}
+      rotation: {x: 0, y: 0, z: 0.0064880773, w: 0.99997896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left01_1
+      parentName: AssassinCat_Cloth_Root
+      position: {x: -0.15720919, y: 0.007948176, z: 0.042752776}
+      rotation: {x: 0.16855004, y: 0.09345066, z: 0.5381936, w: 0.820491}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left01_2
+      parentName: AssassinCat_Cloth_Left01_1
+      position: {x: -0.15053077, y: 5.3290704e-17, z: 0}
+      rotation: {x: 0, y: 0, z: 0.030082325, w: 0.9995475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Cloth_Left01_3
+      parentName: AssassinCat_Cloth_Left01_2
+      position: {x: -0.26890087, y: 0.00011719422, z: 5.3290704e-17}
+      rotation: {x: 0, y: 0, z: 0.0064880773, w: 0.99997896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Spine
+      parentName: AssassinCat_Hips
+      position: {x: 1.7140682e-33, y: 0.06953087, z: 1.5438954e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Spine1
+      parentName: AssassinCat_Spine
+      position: {x: -1.5919599e-17, y: 0.099405125, z: 7.959799e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Spine2
+      parentName: AssassinCat_Spine1
+      position: {x: -3.1839188e-17, y: 0.09940509, z: 1.2735675e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Neck
+      parentName: AssassinCat_Spine2
+      position: {x: -3.18392e-17, y: 0.14339103, z: 1.5919604e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Head
+      parentName: AssassinCat_Neck
+      position: {x: -9.0131856e-17, y: 0.2299319, z: 3.9057137e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightDownEyelid
+      parentName: AssassinCat_Head
+      position: {x: 0.079155594, y: -0.07936173, z: 0.058255598}
+      rotation: {x: 0.7731755, y: -0.43458697, z: 0.29247168, w: 0.35748327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightDownEyelid1
+      parentName: AssassinCat_RightDownEyelid
+      position: {x: 0.17266549, y: 0.00025736727, z: -0.026758349}
+      rotation: {x: 0.6852975, y: -0.005717725, z: 0.0068053748, w: 0.728209}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightUpEyelid
+      parentName: AssassinCat_Head
+      position: {x: 0.079155594, y: -0.07936173, z: 0.058255598}
+      rotation: {x: 0.5372226, y: -0.2052707, z: 0.6283823, w: 0.52382386}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightUpEyelid1
+      parentName: AssassinCat_RightUpEyelid
+      position: {x: 0.17517309, y: 0.0009427338, z: 0.018896017}
+      rotation: {x: 0.4883824, y: -0.087162845, z: -0.06378899, w: 0.8659193}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightEye
+      parentName: AssassinCat_Head
+      position: {x: 0.079155594, y: -0.07936173, z: 0.058255598}
+      rotation: {x: 0.98390263, y: -0.09692775, z: -0.14295177, w: 0.04588547}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightEye0
+      parentName: AssassinCat_RightEye
+      position: {x: 0.008647621, y: 0.008272738, z: -0.16403055}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftDownEyelid
+      parentName: AssassinCat_Head
+      position: {x: -0.079155646, y: -0.07936202, z: 0.058255624}
+      rotation: {x: -0.5914976, y: 0.1335903, z: 0.50651664, w: 0.6129642}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftDownEyelid1
+      parentName: AssassinCat_LeftDownEyelid
+      position: {x: -0.17266488, y: -0.016797738, z: 0.020832242}
+      rotation: {x: -0.081729956, y: 0.6421305, z: 0.74795496, w: -0.1468062}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftUpEyelid
+      parentName: AssassinCat_Head
+      position: {x: -0.079155646, y: -0.07936202, z: 0.058255624}
+      rotation: {x: 0.66394204, y: -0.53447914, z: -0.3890147, w: -0.3495435}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftUpEyelid1
+      parentName: AssassinCat_LeftUpEyelid
+      position: {x: -0.1751739, y: 0.010320273, z: -0.01585392}
+      rotation: {x: 0.7315717, y: -0.063248865, z: -0.08755557, w: 0.6731541}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Chin1
+      parentName: AssassinCat_Head
+      position: {x: -0, y: -0.19982253, z: 0.1755415}
+      rotation: {x: 0.101323426, y: 0.6998097, z: 0.101323426, w: 0.6998097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Chin2
+      parentName: AssassinCat_Chin1
+      position: {x: -0.083634175, y: 0.0103510665, z: 1.9238444e-17}
+      rotation: {x: 0, y: 0, z: -0.00101058, w: 0.9999995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightEar1
+      parentName: AssassinCat_Head
+      position: {x: 0.25814402, y: 0.1596193, z: -0.117324464}
+      rotation: {x: 0.84573245, y: 0.5240972, z: 0.067228466, w: -0.07442624}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2AssassinCat_RightEar2
+      parentName: AssassinCat_RightEar1
+      position: {x: 0.102823496, y: -0.00000062609905, z: 0.00000082605857}
+      rotation: {x: -0.00010441457, y: 0.10762994, z: 0.0009646097, w: 0.9941906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightEar3
+      parentName: joint2AssassinCat_RightEar2
+      position: {x: 0.104516596, y: -0.00000026774032, z: 0.00000028918132}
+      rotation: {x: 0.000000014905702, y: -2.3837396e-10, z: -0.015990088, w: 0.99987215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftEar1
+      parentName: AssassinCat_Head
+      position: {x: -0.2581439, y: 0.15962334, z: -0.117324464}
+      rotation: {x: 0.074426234, y: 0.06722846, z: -0.52409714, w: 0.8457324}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2AssassinCat_LeftEar2
+      parentName: AssassinCat_LeftEar1
+      position: {x: -0.102819525, y: -8.881784e-18, z: 0}
+      rotation: {x: -0.0001044274, y: 0.10762994, z: 0.0009646083, w: 0.9941906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftEar3
+      parentName: joint2AssassinCat_LeftEar2
+      position: {x: -0.10451582, y: -3.8058444e-15, z: 0}
+      rotation: {x: 0, y: 0, z: -0.015990084, w: 0.99987215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftEye
+      parentName: AssassinCat_Head
+      position: {x: -0.079155646, y: -0.07936202, z: 0.058255624}
+      rotation: {x: -0.04588547, y: -0.14295177, z: 0.09692775, w: 0.98390263}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftEye0
+      parentName: AssassinCat_LeftEye
+      position: {x: -0.008647308, y: -0.008270597, z: 0.16403092}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightShoulder
+      parentName: AssassinCat_Spine2
+      position: {x: 0.09726967, y: 0.073484845, z: 6.310887e-32}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat__RightArm
+      parentName: AssassinCat_RightShoulder
+      position: {x: 0.09734033, y: 0.0008953438, z: -2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightForeArm
+      parentName: AssassinCat__RightArm
+      position: {x: 0.19529435, y: -0.0008939705, z: 2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHand
+      parentName: AssassinCat_RightForeArm
+      position: {x: 0.17208195, y: 1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandWeaponPoint
+      parentName: AssassinCat_RightHand
+      position: {x: 0.08611369, y: -0.044797935, z: -2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandRing1
+      parentName: AssassinCat_RightHand
+      position: {x: 0.123635404, y: -0.0031092833, z: -0.05648171}
+      rotation: {x: 0.0017590395, y: -0.01882234, z: 0.027932797, w: 0.9994311}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandRing2
+      parentName: AssassinCat_RightHandRing1
+      position: {x: 0.027757874, y: -0.0046081543, z: -0.0048532058}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandRing3
+      parentName: AssassinCat_RightHandRing2
+      position: {x: 0.033768933, y: -0.0056063076, z: -0.0059045753}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandMiddle1
+      parentName: AssassinCat_RightHand
+      position: {x: 0.13058692, y: 0.0037737272, z: -0.005680702}
+      rotation: {x: 0.00055864727, y: 0.00020833431, z: 0.012980473, w: 0.9999156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandMiddle2
+      parentName: AssassinCat_RightHandMiddle1
+      position: {x: 0.03233856, y: -0.005293121, z: -0.0013068198}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandMiddle3
+      parentName: AssassinCat_RightHandMiddle2
+      position: {x: 0.0452371, y: -0.0074044033, z: -0.0018285417}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandIndex1
+      parentName: AssassinCat_RightHand
+      position: {x: 0.12474586, y: 0.0019838715, z: 0.042542394}
+      rotation: {x: 0.00064388406, y: 0.028604627, z: 0.033803534, w: 0.9990189}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandIndex2
+      parentName: AssassinCat_RightHandIndex1
+      position: {x: 0.033477552, y: -0.005509567, z: 0.004024572}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandIndex3
+      parentName: AssassinCat_RightHandIndex2
+      position: {x: 0.04052464, y: -0.006658554, z: 0.004017127}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandThumb1
+      parentName: AssassinCat_RightHand
+      position: {x: 0.055649985, y: -0.007931518, z: 0.06597984}
+      rotation: {x: -0.089121595, y: -0.054296155, z: 0.09886098, w: 0.98961395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandThumb2
+      parentName: AssassinCat_RightHandThumb1
+      position: {x: 0.028858298, y: -0.013887558, z: 0.018388033}
+      rotation: {x: -0.04409449, y: -0.091529615, z: 0.00007481967, w: 0.99482566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightHandThumb3
+      parentName: AssassinCat_RightHandThumb2
+      position: {x: 0.034261856, y: -0.016497878, z: 0.009480009}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftShoulder
+      parentName: AssassinCat_Spine2
+      position: {x: -0.097269654, y: 0.073484845, z: 6.310887e-32}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat__LeftArm
+      parentName: AssassinCat_LeftShoulder
+      position: {x: -0.097344734, y: 0.0008953438, z: -2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftForeArm
+      parentName: AssassinCat__LeftArm
+      position: {x: -0.19528997, y: -0.0008939705, z: 2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHand
+      parentName: AssassinCat_LeftForeArm
+      position: {x: -0.17208195, y: 1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandWeaponPoint
+      parentName: AssassinCat_LeftHand
+      position: {x: -0.08611493, y: -0.044797935, z: -2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandRing1
+      parentName: AssassinCat_LeftHand
+      position: {x: -0.123635404, y: -0.0031092833, z: -0.05648171}
+      rotation: {x: 0.0017590532, y: 0.018822499, z: -0.027933003, w: 0.9994311}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandRing2
+      parentName: AssassinCat_LeftHandRing1
+      position: {x: -0.027757874, y: -0.0046081543, z: -0.0048532058}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandRing3
+      parentName: AssassinCat_LeftHandRing2
+      position: {x: -0.033768997, y: -0.0056063076, z: -0.005904217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandMiddle1
+      parentName: AssassinCat_LeftHand
+      position: {x: -0.13058692, y: 0.0037737272, z: -0.005680702}
+      rotation: {x: 0.0005586545, y: -0.00020833153, z: -0.012980639, w: 0.9999156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandMiddle2
+      parentName: AssassinCat_LeftHandMiddle1
+      position: {x: -0.03233856, y: -0.005293121, z: -0.0013068198}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandMiddle3
+      parentName: AssassinCat_LeftHandMiddle2
+      position: {x: -0.04523712, y: -0.0074044033, z: -0.0018280607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandIndex1
+      parentName: AssassinCat_LeftHand
+      position: {x: -0.12474586, y: 0.0019838715, z: 0.042542394}
+      rotation: {x: 0.0006438863, y: -0.028604714, z: -0.033803646, w: 0.99901885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandIndex2
+      parentName: AssassinCat_LeftHandIndex1
+      position: {x: -0.033477552, y: -0.005509567, z: 0.004024572}
+      rotation: {x: 0, y: -0.000005316577, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandIndex3
+      parentName: AssassinCat_LeftHandIndex2
+      position: {x: -0.040524554, y: -0.006658554, z: 0.004017989}
+      rotation: {x: 0, y: 0.00007443208, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandThumb1
+      parentName: AssassinCat_LeftHand
+      position: {x: -0.055649985, y: -0.007931518, z: 0.06597984}
+      rotation: {x: -0.089121595, y: 0.054296155, z: -0.09886098, w: 0.98961395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandThumb2
+      parentName: AssassinCat_LeftHandThumb1
+      position: {x: -0.028858298, y: -0.013887558, z: 0.018388033}
+      rotation: {x: -0.04409449, y: 0.091529615, z: -0.00007481967, w: 0.99482566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftHandThumb3
+      parentName: AssassinCat_LeftHandThumb2
+      position: {x: -0.034261856, y: -0.016497878, z: 0.009480009}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightUpLeg
+      parentName: AssassinCat_Hips
+      position: {x: 0.10002267, y: -0.055953484, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightLeg
+      parentName: AssassinCat_RightUpLeg
+      position: {x: 1.7763568e-17, y: -0.18042432, z: -0.011399935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightFoot
+      parentName: AssassinCat_RightLeg
+      position: {x: -1.7763568e-17, y: -0.20835526, z: -0.0099749435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_RightToeBase
+      parentName: AssassinCat_RightFoot
+      position: {x: 0.000000085830685, y: -0.08096911, z: 0.124404065}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftUpLeg
+      parentName: AssassinCat_Hips
+      position: {x: -0.10002267, y: -0.055953484, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftLeg
+      parentName: AssassinCat_LeftUpLeg
+      position: {x: 1.7763568e-17, y: -0.18042432, z: -0.011399935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftFoot
+      parentName: AssassinCat_LeftLeg
+      position: {x: -1.7763568e-17, y: -0.20835526, z: -0.0099749435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_LeftToeBase
+      parentName: AssassinCat_LeftFoot
+      position: {x: -0.000000085830685, y: -0.08096911, z: 0.124404065}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Tail1
+      parentName: AssassinCat_Hips
+      position: {x: -0, y: -0.043149494, z: -0.1019071}
+      rotation: {x: 0.07368996, y: -0.70325655, z: -0.07368996, w: 0.70325655}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Tail2
+      parentName: AssassinCat_Tail1
+      position: {x: -0.15848783, y: -0.0054775183, z: -3.521037e-17}
+      rotation: {x: 0, y: 0, z: -0.24650203, w: 0.9691423}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Tail3
+      parentName: AssassinCat_Tail2
+      position: {x: -0.15023145, y: -0.004694733, z: -3.337363e-17}
+      rotation: {x: 0.050665613, y: 0.15402877, z: -0.3083309, w: 0.93735814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Tail4
+      parentName: AssassinCat_Tail3
+      position: {x: -0.099714525, y: -0.003654459, z: -2.215545e-17}
+      rotation: {x: 0, y: 0, z: -0.18441536, w: 0.9828484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Tail5
+      parentName: AssassinCat_Tail4
+      position: {x: -0.0798935, y: -0.004240158, z: -1.7764496e-17}
+      rotation: {x: -0.0013445748, y: -0.14419375, z: -0.00922692, w: 0.9895055}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Tail6
+      parentName: AssassinCat_Tail5
+      position: {x: -0.0841275, y: -0.0060399235, z: -1.8727728e-17}
+      rotation: {x: -0.00027248153, y: -0.2224801, z: -0.0011940491, w: 0.9749365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: AssassinCat_Tail7
+      parentName: AssassinCat_Tail6
+      position: {x: -0.08348868, y: -0.0061996547, z: -1.8588844e-17}
+      rotation: {x: 0, y: 0, z: 0.007489885, w: 0.999972}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

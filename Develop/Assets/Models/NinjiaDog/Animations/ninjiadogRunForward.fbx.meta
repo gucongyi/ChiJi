@@ -1,0 +1,2255 @@
+fileFormatVersion: 2
+guid: 75b069694b788b149a52f9b023427448
+timeCreated: 1501654985
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChestEndEffector
+    100002: ChestOriginEffector
+    100004: Head
+    100006: HeadEffector
+    100008: Hips
+    100010: HipsEffector
+    100012: joint2NinjiaDog_LeftEar2
+    100014: joint2NinjiaDog_RightEar2
+    100016: joint3
+    100018: joint4
+    100020: LeftAnkleEffector
+    100022: LeftArm
+    100024: LeftElbowEffector
+    100026: LeftFoot
+    100028: LeftFootEffector
+    100030: LeftForeArm
+    100032: LeftHand
+    100034: LeftHandIndex1
+    100036: LeftHandIndex2
+    100038: LeftHandIndex3
+    100040: LeftHandIndexEffector
+    100042: LeftHandMiddle1
+    100044: LeftHandMiddle2
+    100046: LeftHandMiddle3
+    100048: LeftHandMiddleEffector
+    100050: LeftHandRing1
+    100052: LeftHandRing2
+    100054: LeftHandRing3
+    100056: LeftHandRingEffector
+    100058: LeftHandThumb1
+    100060: LeftHandThumb2
+    100062: LeftHandThumb3
+    100064: LeftHandThumbEffector
+    100066: LeftHipEffector
+    100068: LeftKneeEffector
+    100070: LeftLeg
+    100072: LeftShoulder
+    100074: LeftShoulderEffector
+    100076: LeftToeBase
+    100078: LeftUpLeg
+    100080: LeftWristEffector
+    100082: Neck
+    100084: Ninjia_Dog
+    100086: Ninjia_Dog_Armbag
+    100088: Ninjia_Dog_Body
+    100090: Ninjia_Dog_Eye
+    100092: Ninjia_Dog_Hat
+    100094: Ninjia_Dog_Scroll
+    100096: Ninjia_Dog_Tongue
+    100098: NinjiaDog_Chin1
+    100100: NinjiaDog_Chin2
+    100102: NinjiaDog_Head
+    100104: NinjiaDog_Hips
+    100106: NinjiaDog_LeftArm
+    100108: NinjiaDog_LeftDownEyelid
+    100110: NinjiaDog_LeftDownEyelid1
+    100112: NinjiaDog_LeftEar1
+    100114: NinjiaDog_LeftEar3
+    100116: NinjiaDog_LeftEye
+    100118: NinjiaDog_LeftEye0
+    100120: NinjiaDog_LeftFoot
+    100122: NinjiaDog_LeftForeArm
+    100124: NinjiaDog_LeftHand
+    100126: NinjiaDog_LeftHandIndex1
+    100128: NinjiaDog_LeftHandIndex2
+    100130: NinjiaDog_LeftHandIndex3
+    100132: NinjiaDog_LeftHandMiddle1
+    100134: NinjiaDog_LeftHandMiddle2
+    100136: NinjiaDog_LeftHandMiddle3
+    100138: NinjiaDog_LeftHandRing1
+    100140: NinjiaDog_LeftHandRing2
+    100142: NinjiaDog_LeftHandRing3
+    100144: NinjiaDog_LeftHandThumb1
+    100146: NinjiaDog_LeftHandThumb2
+    100148: NinjiaDog_LeftHandThumb3
+    100150: NinjiaDog_LeftLeg
+    100152: NinjiaDog_LeftShoulder
+    100154: NinjiaDog_LeftToeBase
+    100156: NinjiaDog_LeftUpEyelid
+    100158: NinjiaDog_LeftUpEyelid1
+    100160: NinjiaDog_LeftUpLeg
+    100162: NinjiaDog_Neck
+    100164: NinjiaDog_Reference
+    100166: NinjiaDog_RightArm
+    100168: NinjiaDog_RightDownEyelid1
+    100170: NinjiaDog_RightDownEyelid2
+    100172: NinjiaDog_RightEar1
+    100174: NinjiaDog_RightEar3
+    100176: NinjiaDog_RightEye
+    100178: NinjiaDog_RightEye0
+    100180: NinjiaDog_RightFoot
+    100182: NinjiaDog_RightForeArm
+    100184: NinjiaDog_RightHand
+    100186: NinjiaDog_RightHandIndex1
+    100188: NinjiaDog_RightHandIndex2
+    100190: NinjiaDog_RightHandIndex3
+    100192: NinjiaDog_RightHandMiddle1
+    100194: NinjiaDog_RightHandMiddle2
+    100196: NinjiaDog_RightHandMiddle3
+    100198: NinjiaDog_RightHandRing1
+    100200: NinjiaDog_RightHandRing2
+    100202: NinjiaDog_RightHandRing3
+    100204: NinjiaDog_RightHandThumb1
+    100206: NinjiaDog_RightHandThumb2
+    100208: NinjiaDog_RightHandThumb3
+    100210: NinjiaDog_RightLeg
+    100212: NinjiaDog_RightShoulder
+    100214: NinjiaDog_RightToeBase
+    100216: NinjiaDog_RightUpEyelid1
+    100218: NinjiaDog_RightUpEyelid2
+    100220: NinjiaDog_RightUpLeg
+    100222: NinjiaDog_Scroll1
+    100224: NinjiaDog_Scroll2
+    100226: NinjiaDog_Spine
+    100228: NinjiaDog_Spine1
+    100230: NinjiaDog_Spine2
+    100232: NinjiaDog_Tail1
+    100234: NinjiaDog_Tail2
+    100236: NinjiaDog_Tail3
+    100238: NinjiaDog_Tail4
+    100240: NinjiaDog_Tail5
+    100242: //RootNode
+    100244: Reference
+    100246: RightAnkleEffector
+    100248: RightArm
+    100250: RightElbowEffector
+    100252: RightFoot
+    100254: RightFootEffector
+    100256: RightForeArm
+    100258: RightHand
+    100260: RightHandIndex1
+    100262: RightHandIndex2
+    100264: RightHandIndex3
+    100266: RightHandIndexEffector
+    100268: RightHandMiddle1
+    100270: RightHandMiddle2
+    100272: RightHandMiddle3
+    100274: RightHandMiddleEffector
+    100276: RightHandRing1
+    100278: RightHandRing2
+    100280: RightHandRing3
+    100282: RightHandRingEffector
+    100284: RightHandThumb1
+    100286: RightHandThumb2
+    100288: RightHandThumb3
+    100290: RightHandThumbEffector
+    100292: RightHipEffector
+    100294: RightKneeEffector
+    100296: RightLeg
+    100298: RightShoulder
+    100300: RightShoulderEffector
+    100302: RightToeBase
+    100304: RightUpLeg
+    100306: RightWristEffector
+    100308: Spine
+    100310: Spine1
+    100312: Spine2
+    400000: ChestEndEffector
+    400002: ChestOriginEffector
+    400004: Head
+    400006: HeadEffector
+    400008: Hips
+    400010: HipsEffector
+    400012: joint2NinjiaDog_LeftEar2
+    400014: joint2NinjiaDog_RightEar2
+    400016: joint3
+    400018: joint4
+    400020: LeftAnkleEffector
+    400022: LeftArm
+    400024: LeftElbowEffector
+    400026: LeftFoot
+    400028: LeftFootEffector
+    400030: LeftForeArm
+    400032: LeftHand
+    400034: LeftHandIndex1
+    400036: LeftHandIndex2
+    400038: LeftHandIndex3
+    400040: LeftHandIndexEffector
+    400042: LeftHandMiddle1
+    400044: LeftHandMiddle2
+    400046: LeftHandMiddle3
+    400048: LeftHandMiddleEffector
+    400050: LeftHandRing1
+    400052: LeftHandRing2
+    400054: LeftHandRing3
+    400056: LeftHandRingEffector
+    400058: LeftHandThumb1
+    400060: LeftHandThumb2
+    400062: LeftHandThumb3
+    400064: LeftHandThumbEffector
+    400066: LeftHipEffector
+    400068: LeftKneeEffector
+    400070: LeftLeg
+    400072: LeftShoulder
+    400074: LeftShoulderEffector
+    400076: LeftToeBase
+    400078: LeftUpLeg
+    400080: LeftWristEffector
+    400082: Neck
+    400084: Ninjia_Dog
+    400086: Ninjia_Dog_Armbag
+    400088: Ninjia_Dog_Body
+    400090: Ninjia_Dog_Eye
+    400092: Ninjia_Dog_Hat
+    400094: Ninjia_Dog_Scroll
+    400096: Ninjia_Dog_Tongue
+    400098: NinjiaDog_Chin1
+    400100: NinjiaDog_Chin2
+    400102: NinjiaDog_Head
+    400104: NinjiaDog_Hips
+    400106: NinjiaDog_LeftArm
+    400108: NinjiaDog_LeftDownEyelid
+    400110: NinjiaDog_LeftDownEyelid1
+    400112: NinjiaDog_LeftEar1
+    400114: NinjiaDog_LeftEar3
+    400116: NinjiaDog_LeftEye
+    400118: NinjiaDog_LeftEye0
+    400120: NinjiaDog_LeftFoot
+    400122: NinjiaDog_LeftForeArm
+    400124: NinjiaDog_LeftHand
+    400126: NinjiaDog_LeftHandIndex1
+    400128: NinjiaDog_LeftHandIndex2
+    400130: NinjiaDog_LeftHandIndex3
+    400132: NinjiaDog_LeftHandMiddle1
+    400134: NinjiaDog_LeftHandMiddle2
+    400136: NinjiaDog_LeftHandMiddle3
+    400138: NinjiaDog_LeftHandRing1
+    400140: NinjiaDog_LeftHandRing2
+    400142: NinjiaDog_LeftHandRing3
+    400144: NinjiaDog_LeftHandThumb1
+    400146: NinjiaDog_LeftHandThumb2
+    400148: NinjiaDog_LeftHandThumb3
+    400150: NinjiaDog_LeftLeg
+    400152: NinjiaDog_LeftShoulder
+    400154: NinjiaDog_LeftToeBase
+    400156: NinjiaDog_LeftUpEyelid
+    400158: NinjiaDog_LeftUpEyelid1
+    400160: NinjiaDog_LeftUpLeg
+    400162: NinjiaDog_Neck
+    400164: NinjiaDog_Reference
+    400166: NinjiaDog_RightArm
+    400168: NinjiaDog_RightDownEyelid1
+    400170: NinjiaDog_RightDownEyelid2
+    400172: NinjiaDog_RightEar1
+    400174: NinjiaDog_RightEar3
+    400176: NinjiaDog_RightEye
+    400178: NinjiaDog_RightEye0
+    400180: NinjiaDog_RightFoot
+    400182: NinjiaDog_RightForeArm
+    400184: NinjiaDog_RightHand
+    400186: NinjiaDog_RightHandIndex1
+    400188: NinjiaDog_RightHandIndex2
+    400190: NinjiaDog_RightHandIndex3
+    400192: NinjiaDog_RightHandMiddle1
+    400194: NinjiaDog_RightHandMiddle2
+    400196: NinjiaDog_RightHandMiddle3
+    400198: NinjiaDog_RightHandRing1
+    400200: NinjiaDog_RightHandRing2
+    400202: NinjiaDog_RightHandRing3
+    400204: NinjiaDog_RightHandThumb1
+    400206: NinjiaDog_RightHandThumb2
+    400208: NinjiaDog_RightHandThumb3
+    400210: NinjiaDog_RightLeg
+    400212: NinjiaDog_RightShoulder
+    400214: NinjiaDog_RightToeBase
+    400216: NinjiaDog_RightUpEyelid1
+    400218: NinjiaDog_RightUpEyelid2
+    400220: NinjiaDog_RightUpLeg
+    400222: NinjiaDog_Scroll1
+    400224: NinjiaDog_Scroll2
+    400226: NinjiaDog_Spine
+    400228: NinjiaDog_Spine1
+    400230: NinjiaDog_Spine2
+    400232: NinjiaDog_Tail1
+    400234: NinjiaDog_Tail2
+    400236: NinjiaDog_Tail3
+    400238: NinjiaDog_Tail4
+    400240: NinjiaDog_Tail5
+    400242: //RootNode
+    400244: Reference
+    400246: RightAnkleEffector
+    400248: RightArm
+    400250: RightElbowEffector
+    400252: RightFoot
+    400254: RightFootEffector
+    400256: RightForeArm
+    400258: RightHand
+    400260: RightHandIndex1
+    400262: RightHandIndex2
+    400264: RightHandIndex3
+    400266: RightHandIndexEffector
+    400268: RightHandMiddle1
+    400270: RightHandMiddle2
+    400272: RightHandMiddle3
+    400274: RightHandMiddleEffector
+    400276: RightHandRing1
+    400278: RightHandRing2
+    400280: RightHandRing3
+    400282: RightHandRingEffector
+    400284: RightHandThumb1
+    400286: RightHandThumb2
+    400288: RightHandThumb3
+    400290: RightHandThumbEffector
+    400292: RightHipEffector
+    400294: RightKneeEffector
+    400296: RightLeg
+    400298: RightShoulder
+    400300: RightShoulderEffector
+    400302: RightToeBase
+    400304: RightUpLeg
+    400306: RightWristEffector
+    400308: Spine
+    400310: Spine1
+    400312: Spine2
+    7400000: T-Pose
+    7400002: Run-Foward
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: T-Pose
+      takeName: T-Pose
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ninjia_Dog
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Armbag
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Body
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Eye
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Hat
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Scroll
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Tongue
+        weight: 0
+      - path: NinjiaDog_Reference
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_LeftUpLeg
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_LeftUpLeg/NinjiaDog_LeftLeg
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_LeftUpLeg/NinjiaDog_LeftLeg/NinjiaDog_LeftFoot
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_LeftUpLeg/NinjiaDog_LeftLeg/NinjiaDog_LeftFoot/NinjiaDog_LeftToeBase
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_RightUpLeg
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_RightUpLeg/NinjiaDog_RightLeg
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_RightUpLeg/NinjiaDog_RightLeg/NinjiaDog_RightFoot
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_RightUpLeg/NinjiaDog_RightLeg/NinjiaDog_RightFoot/NinjiaDog_RightToeBase
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandIndex1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandIndex1/NinjiaDog_LeftHandIndex2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandIndex1/NinjiaDog_LeftHandIndex2/NinjiaDog_LeftHandIndex3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandMiddle1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandMiddle1/NinjiaDog_LeftHandMiddle2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandMiddle1/NinjiaDog_LeftHandMiddle2/NinjiaDog_LeftHandMiddle3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandRing1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandRing1/NinjiaDog_LeftHandRing2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandRing1/NinjiaDog_LeftHandRing2/NinjiaDog_LeftHandRing3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandThumb1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandThumb1/NinjiaDog_LeftHandThumb2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandThumb1/NinjiaDog_LeftHandThumb2/NinjiaDog_LeftHandThumb3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_Chin1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_Chin1/NinjiaDog_Chin2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftDownEyelid
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftDownEyelid/NinjiaDog_LeftDownEyelid1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEar1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEar1/joint2NinjiaDog_LeftEar2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEar1/joint2NinjiaDog_LeftEar2/NinjiaDog_LeftEar3
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEye
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEye/NinjiaDog_LeftEye0
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftUpEyelid
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftUpEyelid/NinjiaDog_LeftUpEyelid1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightDownEyelid2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightDownEyelid2/NinjiaDog_RightDownEyelid1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEar1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEar1/joint2NinjiaDog_RightEar2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEar1/joint2NinjiaDog_RightEar2/NinjiaDog_RightEar3
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEye
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEye/NinjiaDog_RightEye0
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightUpEyelid2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightUpEyelid2/NinjiaDog_RightUpEyelid1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandIndex1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandIndex1/NinjiaDog_RightHandIndex2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandIndex1/NinjiaDog_RightHandIndex2/NinjiaDog_RightHandIndex3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandMiddle1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandMiddle1/NinjiaDog_RightHandMiddle2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandMiddle1/NinjiaDog_RightHandMiddle2/NinjiaDog_RightHandMiddle3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandRing1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandRing1/NinjiaDog_RightHandRing2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandRing1/NinjiaDog_RightHandRing2/NinjiaDog_RightHandRing3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandThumb1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandThumb1/NinjiaDog_RightHandThumb2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandThumb1/NinjiaDog_RightHandThumb2/NinjiaDog_RightHandThumb3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Scroll1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Scroll1/NinjiaDog_Scroll2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3/joint3
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3/joint3/NinjiaDog_Tail4
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3/joint3/NinjiaDog_Tail4/joint4
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3/joint3/NinjiaDog_Tail4/joint4/NinjiaDog_Tail5
+        weight: 0
+      - path: Reference
+        weight: 0
+      - path: Reference/ChestEndEffector
+        weight: 0
+      - path: Reference/ChestOriginEffector
+        weight: 0
+      - path: Reference/HeadEffector
+        weight: 0
+      - path: Reference/Hips
+        weight: 0
+      - path: Reference/Hips/LeftUpLeg
+        weight: 0
+      - path: Reference/Hips/LeftUpLeg/LeftLeg
+        weight: 0
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 0
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 0
+      - path: Reference/Hips/RightUpLeg
+        weight: 0
+      - path: Reference/Hips/RightUpLeg/RightLeg
+        weight: 0
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 0
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 0
+      - path: Reference/Hips/Spine
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 0
+      - path: Reference/HipsEffector
+        weight: 0
+      - path: Reference/LeftAnkleEffector
+        weight: 0
+      - path: Reference/LeftElbowEffector
+        weight: 0
+      - path: Reference/LeftFootEffector
+        weight: 0
+      - path: Reference/LeftHandIndexEffector
+        weight: 0
+      - path: Reference/LeftHandMiddleEffector
+        weight: 0
+      - path: Reference/LeftHandRingEffector
+        weight: 0
+      - path: Reference/LeftHandThumbEffector
+        weight: 0
+      - path: Reference/LeftHipEffector
+        weight: 0
+      - path: Reference/LeftKneeEffector
+        weight: 0
+      - path: Reference/LeftShoulderEffector
+        weight: 0
+      - path: Reference/LeftWristEffector
+        weight: 0
+      - path: Reference/RightAnkleEffector
+        weight: 0
+      - path: Reference/RightElbowEffector
+        weight: 0
+      - path: Reference/RightFootEffector
+        weight: 0
+      - path: Reference/RightHandIndexEffector
+        weight: 0
+      - path: Reference/RightHandMiddleEffector
+        weight: 0
+      - path: Reference/RightHandRingEffector
+        weight: 0
+      - path: Reference/RightHandThumbEffector
+        weight: 0
+      - path: Reference/RightHipEffector
+        weight: 0
+      - path: Reference/RightKneeEffector
+        weight: 0
+      - path: Reference/RightShoulderEffector
+        weight: 0
+      - path: Reference/RightWristEffector
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run-Foward
+      takeName: Run-Foward
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ninjia_Dog
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Armbag
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Body
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Eye
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Hat
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Scroll
+        weight: 0
+      - path: Ninjia_Dog/Ninjia_Dog_Tongue
+        weight: 0
+      - path: NinjiaDog_Reference
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_LeftUpLeg
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_LeftUpLeg/NinjiaDog_LeftLeg
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_LeftUpLeg/NinjiaDog_LeftLeg/NinjiaDog_LeftFoot
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_LeftUpLeg/NinjiaDog_LeftLeg/NinjiaDog_LeftFoot/NinjiaDog_LeftToeBase
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_RightUpLeg
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_RightUpLeg/NinjiaDog_RightLeg
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_RightUpLeg/NinjiaDog_RightLeg/NinjiaDog_RightFoot
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_RightUpLeg/NinjiaDog_RightLeg/NinjiaDog_RightFoot/NinjiaDog_RightToeBase
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandIndex1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandIndex1/NinjiaDog_LeftHandIndex2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandIndex1/NinjiaDog_LeftHandIndex2/NinjiaDog_LeftHandIndex3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandMiddle1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandMiddle1/NinjiaDog_LeftHandMiddle2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandMiddle1/NinjiaDog_LeftHandMiddle2/NinjiaDog_LeftHandMiddle3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandRing1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandRing1/NinjiaDog_LeftHandRing2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandRing1/NinjiaDog_LeftHandRing2/NinjiaDog_LeftHandRing3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandThumb1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandThumb1/NinjiaDog_LeftHandThumb2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_LeftShoulder/NinjiaDog_LeftArm/NinjiaDog_LeftForeArm/NinjiaDog_LeftHand/NinjiaDog_LeftHandThumb1/NinjiaDog_LeftHandThumb2/NinjiaDog_LeftHandThumb3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_Chin1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_Chin1/NinjiaDog_Chin2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftDownEyelid
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftDownEyelid/NinjiaDog_LeftDownEyelid1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEar1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEar1/joint2NinjiaDog_LeftEar2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEar1/joint2NinjiaDog_LeftEar2/NinjiaDog_LeftEar3
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEye
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftEye/NinjiaDog_LeftEye0
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftUpEyelid
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_LeftUpEyelid/NinjiaDog_LeftUpEyelid1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightDownEyelid2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightDownEyelid2/NinjiaDog_RightDownEyelid1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEar1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEar1/joint2NinjiaDog_RightEar2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEar1/joint2NinjiaDog_RightEar2/NinjiaDog_RightEar3
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEye
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightEye/NinjiaDog_RightEye0
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightUpEyelid2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Neck/NinjiaDog_Head/NinjiaDog_RightUpEyelid2/NinjiaDog_RightUpEyelid1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandIndex1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandIndex1/NinjiaDog_RightHandIndex2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandIndex1/NinjiaDog_RightHandIndex2/NinjiaDog_RightHandIndex3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandMiddle1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandMiddle1/NinjiaDog_RightHandMiddle2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandMiddle1/NinjiaDog_RightHandMiddle2/NinjiaDog_RightHandMiddle3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandRing1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandRing1/NinjiaDog_RightHandRing2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandRing1/NinjiaDog_RightHandRing2/NinjiaDog_RightHandRing3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandThumb1
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandThumb1/NinjiaDog_RightHandThumb2
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_RightShoulder/NinjiaDog_RightArm/NinjiaDog_RightForeArm/NinjiaDog_RightHand/NinjiaDog_RightHandThumb1/NinjiaDog_RightHandThumb2/NinjiaDog_RightHandThumb3
+        weight: 1
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Scroll1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Spine/NinjiaDog_Spine1/NinjiaDog_Spine2/NinjiaDog_Scroll1/NinjiaDog_Scroll2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3/joint3
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3/joint3/NinjiaDog_Tail4
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3/joint3/NinjiaDog_Tail4/joint4
+        weight: 0
+      - path: NinjiaDog_Reference/NinjiaDog_Hips/NinjiaDog_Tail1/NinjiaDog_Tail2/NinjiaDog_Tail3/joint3/NinjiaDog_Tail4/joint4/NinjiaDog_Tail5
+        weight: 0
+      - path: Reference
+        weight: 0
+      - path: Reference/ChestEndEffector
+        weight: 0
+      - path: Reference/ChestOriginEffector
+        weight: 0
+      - path: Reference/HeadEffector
+        weight: 0
+      - path: Reference/Hips
+        weight: 0
+      - path: Reference/Hips/LeftUpLeg
+        weight: 0
+      - path: Reference/Hips/LeftUpLeg/LeftLeg
+        weight: 0
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 0
+      - path: Reference/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 0
+      - path: Reference/Hips/RightUpLeg
+        weight: 0
+      - path: Reference/Hips/RightUpLeg/RightLeg
+        weight: 0
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 0
+      - path: Reference/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 0
+      - path: Reference/Hips/Spine
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+        weight: 0
+      - path: Reference/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 0
+      - path: Reference/HipsEffector
+        weight: 0
+      - path: Reference/LeftAnkleEffector
+        weight: 0
+      - path: Reference/LeftElbowEffector
+        weight: 0
+      - path: Reference/LeftFootEffector
+        weight: 0
+      - path: Reference/LeftHandIndexEffector
+        weight: 0
+      - path: Reference/LeftHandMiddleEffector
+        weight: 0
+      - path: Reference/LeftHandRingEffector
+        weight: 0
+      - path: Reference/LeftHandThumbEffector
+        weight: 0
+      - path: Reference/LeftHipEffector
+        weight: 0
+      - path: Reference/LeftKneeEffector
+        weight: 0
+      - path: Reference/LeftShoulderEffector
+        weight: 0
+      - path: Reference/LeftWristEffector
+        weight: 0
+      - path: Reference/RightAnkleEffector
+        weight: 0
+      - path: Reference/RightElbowEffector
+        weight: 0
+      - path: Reference/RightFootEffector
+        weight: 0
+      - path: Reference/RightHandIndexEffector
+        weight: 0
+      - path: Reference/RightHandMiddleEffector
+        weight: 0
+      - path: Reference/RightHandRingEffector
+        weight: 0
+      - path: Reference/RightHandThumbEffector
+        weight: 0
+      - path: Reference/RightHipEffector
+        weight: 0
+      - path: Reference/RightKneeEffector
+        weight: 0
+      - path: Reference/RightShoulderEffector
+        weight: 0
+      - path: Reference/RightWristEffector
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: NinjiaDog_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Chin1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ninjiadogRunForward(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog
+      parentName: ninjiadogRunForward(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Armbag
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Body
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Eye
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Hat
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Scroll
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Tongue
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Reference
+      parentName: ninjiadogRunForward(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Hips
+      parentName: NinjiaDog_Reference
+      position: {x: 1.3793603e-33, y: 0.48768702, z: 1.2424171e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftUpLeg
+      parentName: NinjiaDog_Hips
+      position: {x: -0.10002267, y: -0.055953484, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftLeg
+      parentName: NinjiaDog_LeftUpLeg
+      position: {x: -0, y: -0.16820596, z: -0.011399935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftFoot
+      parentName: NinjiaDog_LeftLeg
+      position: {x: -0, y: -0.17984578, z: -0.0099749435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftToeBase
+      parentName: NinjiaDog_LeftFoot
+      position: {x: -0.000000085830685, y: -0.083021775, z: 0.12084223}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightUpLeg
+      parentName: NinjiaDog_Hips
+      position: {x: 0.10002267, y: -0.055953484, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightLeg
+      parentName: NinjiaDog_RightUpLeg
+      position: {x: -0, y: -0.16820596, z: -0.011399935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightFoot
+      parentName: NinjiaDog_RightLeg
+      position: {x: -0, y: -0.17984578, z: -0.0099749435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightToeBase
+      parentName: NinjiaDog_RightFoot
+      position: {x: 0.000000085830685, y: -0.083021775, z: 0.12084223}
+      rotation: {x: 0, y: -3.3303882e-16, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Spine
+      parentName: NinjiaDog_Hips
+      position: {x: 1.7140682e-33, y: 0.06953087, z: 1.5438954e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Spine1
+      parentName: NinjiaDog_Spine
+      position: {x: -1.5919599e-17, y: 0.143391, z: 7.959799e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Spine2
+      parentName: NinjiaDog_Spine1
+      position: {x: -3.1839188e-17, y: 0.14339095, z: 1.2735675e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftShoulder
+      parentName: NinjiaDog_Spine2
+      position: {x: -0.13571072, y: 0.09635528, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftArm
+      parentName: NinjiaDog_LeftShoulder
+      position: {x: -0.06709576, y: 0.000001373291, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftForeArm
+      parentName: NinjiaDog_LeftArm
+      position: {x: -0.18709789, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHand
+      parentName: NinjiaDog_LeftForeArm
+      position: {x: -0.17208195, y: 1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandIndex1
+      parentName: NinjiaDog_LeftHand
+      position: {x: -0.12474586, y: 0.0019838715, z: 0.042542394}
+      rotation: {x: 0.0006438585, y: -0.028604506, z: -0.03380317, w: 0.9990189}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandIndex2
+      parentName: NinjiaDog_LeftHandIndex1
+      position: {x: -0.033477552, y: -0.005509567, z: 0.004024572}
+      rotation: {x: 0, y: -0.000005316577, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandIndex3
+      parentName: NinjiaDog_LeftHandIndex2
+      position: {x: -0.040524554, y: -0.006658554, z: 0.004017989}
+      rotation: {x: 0, y: 0.00007443208, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandMiddle1
+      parentName: NinjiaDog_LeftHand
+      position: {x: -0.13058692, y: 0.0037737272, z: -0.005680702}
+      rotation: {x: 0.000558668, y: -0.0002083359, z: -0.012980957, w: 0.9999156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandMiddle2
+      parentName: NinjiaDog_LeftHandMiddle1
+      position: {x: -0.03233856, y: -0.005293121, z: -0.0013068198}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandMiddle3
+      parentName: NinjiaDog_LeftHandMiddle2
+      position: {x: -0.04523712, y: -0.0074044033, z: -0.0018280607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandRing1
+      parentName: NinjiaDog_LeftHand
+      position: {x: -0.123635404, y: -0.0031092833, z: -0.05648171}
+      rotation: {x: 0.0017590694, y: 0.01882255, z: -0.027933145, w: 0.999431}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandRing2
+      parentName: NinjiaDog_LeftHandRing1
+      position: {x: -0.027757874, y: -0.0046081543, z: -0.0048532058}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandRing3
+      parentName: NinjiaDog_LeftHandRing2
+      position: {x: -0.033768997, y: -0.0056063076, z: -0.005904217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandThumb1
+      parentName: NinjiaDog_LeftHand
+      position: {x: -0.055649985, y: -0.007931518, z: 0.06597984}
+      rotation: {x: -0.089121714, y: 0.054296184, z: -0.09886113, w: 0.98961395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandThumb2
+      parentName: NinjiaDog_LeftHandThumb1
+      position: {x: -0.028858298, y: -0.013887558, z: 0.018388033}
+      rotation: {x: -0.044093624, y: 0.09152932, z: -0.000073307194, w: 0.9948257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandThumb3
+      parentName: NinjiaDog_LeftHandThumb2
+      position: {x: -0.034261856, y: -0.016497878, z: 0.009480009}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Neck
+      parentName: NinjiaDog_Spine2
+      position: {x: -3.18392e-17, y: 0.14339103, z: 1.5919604e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Head
+      parentName: NinjiaDog_Neck
+      position: {x: -9.0131856e-17, y: 0.27061188, z: 3.9057137e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Chin1
+      parentName: NinjiaDog_Head
+      position: {x: -0, y: -0.18030776, z: 0.13710332}
+      rotation: {x: 0.101323426, y: 0.6998097, z: 0.101323426, w: 0.6998097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Chin2
+      parentName: NinjiaDog_Chin1
+      position: {x: -0.12369663, y: 0, z: 1.9721522e-33}
+      rotation: {x: 0, y: -0, z: -0.00101058, w: 0.9999995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftDownEyelid
+      parentName: NinjiaDog_Head
+      position: {x: -0.101246, y: -0.06649277, z: 0.101257}
+      rotation: {x: 0.12590596, y: -0.6958072, z: -0.12590596, w: 0.6958072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftDownEyelid1
+      parentName: NinjiaDog_LeftDownEyelid
+      position: {x: 0.08589824, y: -0.00083184545, z: -1.7763568e-17}
+      rotation: {x: 0.000000012903443, y: -1.8614972e-10, z: -0.01442488, w: 0.999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftEar1
+      parentName: NinjiaDog_Head
+      position: {x: -0.19306087, y: 0.12925126, z: -0.043777797}
+      rotation: {x: 0.06426326, y: 0.07700106, z: -0.6375167, w: 0.7638806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2NinjiaDog_LeftEar2
+      parentName: NinjiaDog_LeftEar1
+      position: {x: -0.102819525, y: -8.881784e-18, z: 0}
+      rotation: {x: -0.0001044274, y: 0.10762994, z: 0.0009646083, w: 0.9941906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftEar3
+      parentName: joint2NinjiaDog_LeftEar2
+      position: {x: -0.10451582, y: -3.8058444e-15, z: 0}
+      rotation: {x: 0, y: -0, z: -0.015990084, w: 0.99987215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftEye
+      parentName: NinjiaDog_Head
+      position: {x: -0.10124581, y: -0.06648894, z: 0.10125692}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftEye0
+      parentName: NinjiaDog_LeftEye
+      position: {x: 2.6645352e-17, y: 8.4282094e-17, z: 0.07945589}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftUpEyelid
+      parentName: NinjiaDog_Head
+      position: {x: -0.10124581, y: -0.06648894, z: 0.10125692}
+      rotation: {x: -0.12590596, y: 0.6958072, z: -0.12590596, w: 0.6958072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftUpEyelid1
+      parentName: NinjiaDog_LeftUpEyelid
+      position: {x: -0.085899234, y: 0.0008334001, z: -1.7763568e-17}
+      rotation: {x: -4.8153263e-34, y: -1.1218877e-16, z: -0.01442488, w: 0.999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightDownEyelid2
+      parentName: NinjiaDog_Head
+      position: {x: 0.101246, y: -0.06649277, z: 0.101257}
+      rotation: {x: 0.12590596, y: -0.6958072, z: -0.12590596, w: 0.6958072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightDownEyelid1
+      parentName: NinjiaDog_RightDownEyelid2
+      position: {x: 0.08589824, y: -0.00083184545, z: -1.7763568e-17}
+      rotation: {x: 0.000000012903443, y: -1.8614972e-10, z: -0.01442488, w: 0.999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightEar1
+      parentName: NinjiaDog_Head
+      position: {x: 0.19306101, y: 0.12924723, z: -0.043777797}
+      rotation: {x: 0.7638806, y: 0.6375167, z: 0.07700106, w: -0.06426326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2NinjiaDog_RightEar2
+      parentName: NinjiaDog_RightEar1
+      position: {x: 0.102823496, y: -0.00000062609905, z: 0.00000082605857}
+      rotation: {x: -0.00010441457, y: 0.10762994, z: 0.0009646097, w: 0.9941906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightEar3
+      parentName: joint2NinjiaDog_RightEar2
+      position: {x: 0.104516596, y: -0.00000026774032, z: 0.00000028918132}
+      rotation: {x: 0.000000014905702, y: -2.3837396e-10, z: -0.015990088, w: 0.99987215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightEye
+      parentName: NinjiaDog_Head
+      position: {x: 0.101246, y: -0.06649276, z: 0.101257}
+      rotation: {x: 0, y: 0.0020586338, z: -0, w: 0.9999979}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightEye0
+      parentName: NinjiaDog_RightEye
+      position: {x: -0, y: 0, z: 0.079456}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightUpEyelid2
+      parentName: NinjiaDog_Head
+      position: {x: 0.10124581, y: -0.06648894, z: 0.10125692}
+      rotation: {x: -0.12590596, y: 0.6958072, z: -0.12590596, w: 0.6958072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightUpEyelid1
+      parentName: NinjiaDog_RightUpEyelid2
+      position: {x: -0.085899234, y: 0.0008334001, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0.01442488, w: 0.999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightShoulder
+      parentName: NinjiaDog_Spine2
+      position: {x: 0.13571072, y: 0.09635528, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightArm
+      parentName: NinjiaDog_RightShoulder
+      position: {x: 0.06709576, y: 0.000001373291, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightForeArm
+      parentName: NinjiaDog_RightArm
+      position: {x: 0.18709789, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHand
+      parentName: NinjiaDog_RightForeArm
+      position: {x: 0.17208195, y: 1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandIndex1
+      parentName: NinjiaDog_RightHand
+      position: {x: 0.12474586, y: 0.0019838715, z: 0.042542394}
+      rotation: {x: 0.0006438585, y: 0.028604506, z: 0.03380317, w: 0.9990189}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandIndex2
+      parentName: NinjiaDog_RightHandIndex1
+      position: {x: 0.033477552, y: -0.005509567, z: 0.004024572}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandIndex3
+      parentName: NinjiaDog_RightHandIndex2
+      position: {x: 0.04052464, y: -0.006658554, z: 0.004017127}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandMiddle1
+      parentName: NinjiaDog_RightHand
+      position: {x: 0.13058692, y: 0.0037737272, z: -0.005680702}
+      rotation: {x: 0.000558668, y: 0.0002083359, z: 0.012980957, w: 0.9999156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandMiddle2
+      parentName: NinjiaDog_RightHandMiddle1
+      position: {x: 0.03233856, y: -0.005293121, z: -0.0013068198}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandMiddle3
+      parentName: NinjiaDog_RightHandMiddle2
+      position: {x: 0.0452371, y: -0.0074044033, z: -0.0018285417}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandRing1
+      parentName: NinjiaDog_RightHand
+      position: {x: 0.123635404, y: -0.0031092833, z: -0.05648171}
+      rotation: {x: 0.0017590694, y: -0.01882255, z: 0.027933145, w: 0.999431}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandRing2
+      parentName: NinjiaDog_RightHandRing1
+      position: {x: 0.027757874, y: -0.0046081543, z: -0.0048532058}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandRing3
+      parentName: NinjiaDog_RightHandRing2
+      position: {x: 0.033768933, y: -0.0056063076, z: -0.0059045753}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandThumb1
+      parentName: NinjiaDog_RightHand
+      position: {x: 0.055649985, y: -0.007931518, z: 0.06597984}
+      rotation: {x: -0.089121714, y: -0.054296184, z: 0.09886113, w: 0.98961395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandThumb2
+      parentName: NinjiaDog_RightHandThumb1
+      position: {x: 0.028858298, y: -0.013887558, z: 0.018388033}
+      rotation: {x: -0.044093624, y: -0.09152932, z: 0.000073307194, w: 0.9948257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandThumb3
+      parentName: NinjiaDog_RightHandThumb2
+      position: {x: 0.034261856, y: -0.016497878, z: 0.009480009}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Scroll1
+      parentName: NinjiaDog_Spine2
+      position: {x: -0, y: 0.062386006, z: -0.0035910166}
+      rotation: {x: -0.27059805, y: -0.6532815, z: 0.27059805, w: 0.6532815}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Scroll2
+      parentName: NinjiaDog_Scroll1
+      position: {x: -0.33917862, y: -7.105427e-17, z: -3.765639e-17}
+      rotation: {x: 0, y: -0, z: -0.06014337, w: 0.99818975}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail1
+      parentName: NinjiaDog_Hips
+      position: {x: -0, y: -0.015777191, z: -0.14935242}
+      rotation: {x: -0.03250052, y: -0.684709, z: 0.030591024, w: 0.72744864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail2
+      parentName: NinjiaDog_Tail1
+      position: {x: -0.15866643, y: -7.771561e-18, z: -3.5231025e-17}
+      rotation: {x: -0.08181338, y: 0.017360207, z: -0.20684397, w: 0.9747927}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail3
+      parentName: NinjiaDog_Tail2
+      position: {x: -0.1655578, y: -8.755219e-15, z: -3.676196e-17}
+      rotation: {x: 0, y: -0, z: -0.3839009, w: 0.92337435}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint3
+      parentName: NinjiaDog_Tail3
+      position: {x: -0.08466257, y: -0.000094363575, z: -1.879794e-17}
+      rotation: {x: -0.02202766, y: -0.046872374, z: -0.4247531, w: 0.90382665}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail4
+      parentName: joint3
+      position: {x: -0.0800539, y: -0.0012178295, z: -1.7775903e-17}
+      rotation: {x: -0.14921357, y: 0.11596851, z: -0.602598, w: 0.77534664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint4
+      parentName: NinjiaDog_Tail4
+      position: {x: -0.08453539, y: -0.00035864327, z: -1.8749197e-17}
+      rotation: {x: -0.088769555, y: -0.0941045, z: -0.68042046, w: 0.72131294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail5
+      parentName: joint4
+      position: {x: -0.083960414, y: 0.00015298372, z: -1.8612854e-17}
+      rotation: {x: 0, y: 0, z: 0.007489885, w: 0.999972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reference
+      parentName: ninjiadogRunForward(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ChestEndEffector
+      parentName: Reference
+      position: {x: -0, y: 0.9403551, z: 2.3481786e-16}
+      rotation: {x: -8.672855e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ChestOriginEffector
+      parentName: Reference
+      position: {x: 3.0934284e-33, y: 0.5572179, z: 2.7863126e-17}
+      rotation: {x: -1.8746997e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HeadEffector
+      parentName: Reference
+      position: {x: -1.6972985e-16, y: 1.2580028, z: 7.8458523e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Reference
+      position: {x: 1.3793603e-33, y: 0.48768702, z: 1.2424171e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftUpLeg
+      parentName: Hips
+      position: {x: -0.10002267, y: -0.055953484, z: 0}
+      rotation: {x: 1.7439348e-33, y: -6.162976e-33, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLeg
+      parentName: LeftUpLeg
+      position: {x: -0, y: -0.16820596, z: -0.011399935}
+      rotation: {x: 1.7681635e-33, y: -1.2325952e-32, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftFoot
+      parentName: LeftLeg
+      position: {x: -0, y: -0.17984578, z: -0.0099749435}
+      rotation: {x: 6.872857e-17, y: -5.293956e-23, z: 7.940934e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftToeBase
+      parentName: LeftFoot
+      position: {x: -0.000000085830685, y: -0.083021775, z: 0.12084224}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightUpLeg
+      parentName: Hips
+      position: {x: 0.10002267, y: -0.055953484, z: 0}
+      rotation: {x: 1.7439348e-33, y: -6.162976e-33, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightLeg
+      parentName: RightUpLeg
+      position: {x: -0, y: -0.16820596, z: -0.011399935}
+      rotation: {x: 1.7681635e-33, y: -1.2325952e-32, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightFoot
+      parentName: RightLeg
+      position: {x: -0, y: -0.17984578, z: -0.0099749435}
+      rotation: {x: 6.872853e-17, y: 5.293956e-23, z: -1.0587912e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightToeBase
+      parentName: RightFoot
+      position: {x: 0.000000085830685, y: -0.083021775, z: 0.12084224}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: 1.7140682e-33, y: 0.06953087, z: 1.5438954e-17}
+      rotation: {x: -1.8746997e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine1
+      parentName: Spine
+      position: {x: -1.5919599e-17, y: 0.143391, z: 7.959799e-17}
+      rotation: {x: -8.672855e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine2
+      parentName: Spine1
+      position: {x: -3.1839188e-17, y: 0.14339095, z: 1.2735675e-16}
+      rotation: {x: -8.672855e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulder
+      parentName: Spine2
+      position: {x: -0.13571072, y: 0.09635528, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftArm
+      parentName: LeftShoulder
+      position: {x: -0.06709576, y: 0.000001373291, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftForeArm
+      parentName: LeftArm
+      position: {x: -0.18709789, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHand
+      parentName: LeftForeArm
+      position: {x: -0.17208195, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndex1
+      parentName: LeftHand
+      position: {x: -0.12474586, y: 0.0019838715, z: 0.042542394}
+      rotation: {x: 3.469447e-18, y: -4.363435e-35, z: -1.2576745e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndex2
+      parentName: LeftHandIndex1
+      position: {x: -0.033477552, y: -0.005509567, z: 0.004024572}
+      rotation: {x: -1.7347235e-18, y: 6.938894e-18, z: -4.6620693e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndex3
+      parentName: LeftHandIndex2
+      position: {x: -0.040524594, y: -0.006658554, z: 0.004017558}
+      rotation: {x: -1.7347235e-18, y: 6.938894e-18, z: -4.6620693e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandMiddle1
+      parentName: LeftHand
+      position: {x: -0.13058692, y: 0.0037737272, z: -0.005680702}
+      rotation: {x: -4.3368087e-19, y: -1.657447e-36, z: 3.8218127e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandMiddle2
+      parentName: LeftHandMiddle1
+      position: {x: -0.03233856, y: -0.005293121, z: -0.0013068198}
+      rotation: {x: 8.6736174e-19, y: 2.8446965e-36, z: 3.2797118e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandMiddle3
+      parentName: LeftHandMiddle2
+      position: {x: -0.04523712, y: -0.0074044033, z: -0.0018280607}
+      rotation: {x: 8.6736174e-19, y: 2.8446965e-36, z: 3.2797118e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRing1
+      parentName: LeftHand
+      position: {x: -0.123635404, y: -0.0031092833, z: -0.05648171}
+      rotation: {x: 3.469447e-18, y: -4.1633363e-17, z: 1.0842022e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRing2
+      parentName: LeftHandRing1
+      position: {x: -0.027757874, y: -0.0046081543, z: -0.0048532058}
+      rotation: {x: 0, y: -0, z: -1.0408341e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRing3
+      parentName: LeftHandRing2
+      position: {x: -0.033768997, y: -0.0056063076, z: -0.005904217}
+      rotation: {x: 0, y: -0, z: -1.0408341e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandThumb1
+      parentName: LeftHand
+      position: {x: -0.055649985, y: -0.007931518, z: 0.06597984}
+      rotation: {x: 1.3877788e-17, y: 6.245004e-17, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandThumb2
+      parentName: LeftHandThumb1
+      position: {x: -0.028858298, y: -0.013887558, z: 0.018388033}
+      rotation: {x: -6.938894e-18, y: -3.469447e-18, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandThumb3
+      parentName: LeftHandThumb2
+      position: {x: -0.034261856, y: -0.016497878, z: 0.009480009}
+      rotation: {x: -6.938894e-18, y: -3.469447e-18, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Spine2
+      position: {x: -3.18392e-17, y: 0.14339103, z: 1.5919604e-16}
+      rotation: {x: -8.672855e-33, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -9.0131856e-17, y: 0.27061188, z: 3.9057137e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightShoulder
+      parentName: Spine2
+      position: {x: 0.13571072, y: 0.09635528, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightArm
+      parentName: RightShoulder
+      position: {x: 0.06709576, y: 0.000001373291, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightForeArm
+      parentName: RightArm
+      position: {x: 0.18709789, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHand
+      parentName: RightForeArm
+      position: {x: 0.17208195, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndex1
+      parentName: RightHand
+      position: {x: 0.12474586, y: 0.0019838715, z: 0.042542394}
+      rotation: {x: 0, y: -0, z: -7.589415e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndex2
+      parentName: RightHandIndex1
+      position: {x: 0.033477552, y: -0.005509567, z: 0.004024572}
+      rotation: {x: 6.093763e-35, y: -6.938894e-18, z: 8.782038e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndex3
+      parentName: RightHandIndex2
+      position: {x: 0.040524594, y: -0.006658554, z: 0.004017558}
+      rotation: {x: 6.093763e-35, y: -6.938894e-18, z: 8.782038e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandMiddle1
+      parentName: RightHand
+      position: {x: 0.13058692, y: 0.0037737272, z: -0.005680702}
+      rotation: {x: -8.6736174e-19, y: 1.4341031e-36, z: -1.6534083e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandMiddle2
+      parentName: RightHandMiddle1
+      position: {x: 0.03233856, y: -0.005293121, z: -0.0013068198}
+      rotation: {x: -8.6736174e-19, y: -1.0203292e-35, z: 1.17635936e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandMiddle3
+      parentName: RightHandMiddle2
+      position: {x: 0.04523712, y: -0.0074044033, z: -0.0018280607}
+      rotation: {x: -8.6736174e-19, y: -1.0203292e-35, z: 1.17635936e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRing1
+      parentName: RightHand
+      position: {x: 0.123635404, y: -0.0031092833, z: -0.05648171}
+      rotation: {x: 1.7347235e-18, y: 2.7755576e-17, z: -1.7780916e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRing2
+      parentName: RightHandRing1
+      position: {x: 0.027757874, y: -0.0046081543, z: -0.0048532058}
+      rotation: {x: 1.7347235e-18, y: 2.7755576e-17, z: 1.2576745e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRing3
+      parentName: RightHandRing2
+      position: {x: 0.033768997, y: -0.0056063076, z: -0.005904217}
+      rotation: {x: 1.7347235e-18, y: 2.7755576e-17, z: 1.2576745e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandThumb1
+      parentName: RightHand
+      position: {x: 0.055649985, y: -0.007931518, z: 0.06597984}
+      rotation: {x: 1.3877788e-17, y: 3.85186e-34, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandThumb2
+      parentName: RightHandThumb1
+      position: {x: 0.028858298, y: -0.013887558, z: 0.018388033}
+      rotation: {x: 6.938894e-18, y: 3.469447e-18, z: -2.4074124e-35, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandThumb3
+      parentName: RightHandThumb2
+      position: {x: 0.034261856, y: -0.016497878, z: 0.009480009}
+      rotation: {x: 6.938894e-18, y: 3.469447e-18, z: -2.4074124e-35, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HipsEffector
+      parentName: Reference
+      position: {x: -0, y: 0.43173355, z: 1.2424171e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftAnkleEffector
+      parentName: Reference
+      position: {x: -0.10002267, y: 0.08368179, z: -0.021374878}
+      rotation: {x: 6.872857e-17, y: -5.293956e-23, z: 7.940934e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftElbowEffector
+      parentName: Reference
+      position: {x: -0.38990435, y: 0.9403565, z: 2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftFootEffector
+      parentName: Reference
+      position: {x: -0.10002276, y: 0.0006600189, z: 0.09946736}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandIndexEffector
+      parentName: Reference
+      position: {x: -0.7607343, y: 0.93017226, z: 0.050584525}
+      rotation: {x: -1.7347235e-18, y: -1.5046328e-36, z: 8.6736174e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandMiddleEffector
+      parentName: Reference
+      position: {x: -0.77014893, y: 0.9314327, z: -0.008815583}
+      rotation: {x: 8.6736174e-19, y: 8.463559e-37, z: 9.757819e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandRingEffector
+      parentName: Reference
+      position: {x: -0.7471486, y: 0.92703277, z: -0.067239136}
+      rotation: {x: 8.4259435e-35, y: 1.3877788e-17, z: -6.071532e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHandThumbEffector
+      parentName: Reference
+      position: {x: -0.68075645, y: 0.9020395, z: 0.093847886}
+      rotation: {x: -6.938894e-18, y: -3.469447e-18, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHipEffector
+      parentName: Reference
+      position: {x: -0.10002267, y: 0.43173355, z: 1.2424171e-17}
+      rotation: {x: 1.7439348e-33, y: -6.162976e-33, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftKneeEffector
+      parentName: Reference
+      position: {x: -0.10002267, y: 0.26352757, z: -0.011399935}
+      rotation: {x: 1.7681635e-33, y: -1.2325952e-32, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulderEffector
+      parentName: Reference
+      position: {x: -0.20280647, y: 0.9403565, z: 2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftWristEffector
+      parentName: Reference
+      position: {x: -0.5619863, y: 0.9403565, z: 2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightAnkleEffector
+      parentName: Reference
+      position: {x: 0.10002267, y: 0.08368179, z: -0.021374878}
+      rotation: {x: 6.872853e-17, y: 5.293956e-23, z: -1.0587912e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightElbowEffector
+      parentName: Reference
+      position: {x: 0.38990435, y: 0.9403565, z: 2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightFootEffector
+      parentName: Reference
+      position: {x: 0.10002276, y: 0.0006600189, z: 0.09946736}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandIndexEffector
+      parentName: Reference
+      position: {x: 0.7607343, y: 0.93017226, z: 0.050584525}
+      rotation: {x: 6.093763e-35, y: -6.938894e-18, z: 8.782038e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandMiddleEffector
+      parentName: Reference
+      position: {x: 0.77014893, y: 0.9314327, z: -0.008815583}
+      rotation: {x: -8.6736174e-19, y: -1.0203292e-35, z: 1.17635936e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandRingEffector
+      parentName: Reference
+      position: {x: 0.7471486, y: 0.92703277, z: -0.067239136}
+      rotation: {x: 1.7347235e-18, y: 2.7755576e-17, z: 1.2576745e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHandThumbEffector
+      parentName: Reference
+      position: {x: 0.68075645, y: 0.9020395, z: 0.093847886}
+      rotation: {x: -6.938894e-18, y: 3.469447e-18, z: -2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHipEffector
+      parentName: Reference
+      position: {x: 0.10002267, y: 0.43173355, z: 1.2424171e-17}
+      rotation: {x: 1.7439348e-33, y: -6.162976e-33, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightKneeEffector
+      parentName: Reference
+      position: {x: 0.10002267, y: 0.26352757, z: -0.011399935}
+      rotation: {x: 1.7681635e-33, y: -1.2325952e-32, z: 6.162976e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightShoulderEffector
+      parentName: Reference
+      position: {x: 0.20280647, y: 0.9403565, z: 2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightWristEffector
+      parentName: Reference
+      position: {x: 0.5619863, y: 0.9403565, z: 2.3481786e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

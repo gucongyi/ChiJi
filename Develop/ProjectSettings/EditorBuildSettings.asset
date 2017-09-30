@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: ee03b4b2e81eb3d4380c81cc19e0e0d6
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 69b4b120ee9b5fc4c89c421b3b3b7593
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 911a0860af84f9042a360c6659ff07a7
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: e002c737e823f0c4ebd2eb76f5e65859
+  - enabled: 0
+    path: Assets/External/Photon/Photon Unity Networking/Demos/DemoRPGMovement/DemoRPGMovement-Scene.unity
+    guid: 04d0690ecf8bf94489c8427dd8186299

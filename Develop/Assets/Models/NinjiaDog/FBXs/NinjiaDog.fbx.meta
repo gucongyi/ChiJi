@@ -1,0 +1,1006 @@
+fileFormatVersion: 2
+guid: 0b738695980d46243a0b6da38df61a12
+timeCreated: 1501559158
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: joint2NinjiaDog_LeftEar2
+    100002: joint2NinjiaDog_RightEar2
+    100004: Ninjia_Dog
+    100006: Ninjia_Dog_Armbag
+    100008: Ninjia_Dog_Body
+    100010: Ninjia_Dog_Eye
+    100012: Ninjia_Dog_Hat
+    100014: Ninjia_Dog_Scroll
+    100016: Ninjia_Dog_Tongue
+    100018: //RootNode
+    100020: NinjiaDog_Chin1
+    100022: NinjiaDog_Chin2
+    100024: NinjiaDog_Head
+    100026: NinjiaDog_Hips
+    100028: NinjiaDog_LeftArm
+    100030: NinjiaDog_LeftDownEyelid
+    100032: NinjiaDog_LeftDownEyelid1
+    100034: NinjiaDog_LeftEar1
+    100036: NinjiaDog_LeftEar3
+    100038: NinjiaDog_LeftEye
+    100040: NinjiaDog_LeftEye0
+    100042: NinjiaDog_LeftFoot
+    100044: NinjiaDog_LeftForeArm
+    100046: NinjiaDog_LeftHand
+    100048: NinjiaDog_LeftHandIndex1
+    100050: NinjiaDog_LeftHandIndex2
+    100052: NinjiaDog_LeftHandIndex3
+    100054: NinjiaDog_LeftHandMiddle1
+    100056: NinjiaDog_LeftHandMiddle2
+    100058: NinjiaDog_LeftHandMiddle3
+    100060: NinjiaDog_LeftHandRing1
+    100062: NinjiaDog_LeftHandRing2
+    100064: NinjiaDog_LeftHandRing3
+    100066: NinjiaDog_LeftHandThumb1
+    100068: NinjiaDog_LeftHandThumb2
+    100070: NinjiaDog_LeftHandThumb3
+    100072: NinjiaDog_LeftLeg
+    100074: NinjiaDog_LeftShoulder
+    100076: NinjiaDog_LeftToeBase
+    100078: NinjiaDog_LeftUpEyelid
+    100080: NinjiaDog_LeftUpEyelid1
+    100082: NinjiaDog_LeftUpLeg
+    100084: NinjiaDog_Neck
+    100086: NinjiaDog_Reference
+    100088: NinjiaDog_RightArm
+    100090: NinjiaDog_RightDownEyelid1
+    100092: NinjiaDog_RightDownEyelid2
+    100094: NinjiaDog_RightEar1
+    100096: NinjiaDog_RightEar3
+    100098: NinjiaDog_RightEye
+    100100: NinjiaDog_RightEye0
+    100102: NinjiaDog_RightFoot
+    100104: NinjiaDog_RightForeArm
+    100106: NinjiaDog_RightHand
+    100108: NinjiaDog_RightHandIndex1
+    100110: NinjiaDog_RightHandIndex2
+    100112: NinjiaDog_RightHandIndex3
+    100114: NinjiaDog_RightHandMiddle1
+    100116: NinjiaDog_RightHandMiddle2
+    100118: NinjiaDog_RightHandMiddle3
+    100120: NinjiaDog_RightHandRing1
+    100122: NinjiaDog_RightHandRing2
+    100124: NinjiaDog_RightHandRing3
+    100126: NinjiaDog_RightHandThumb1
+    100128: NinjiaDog_RightHandThumb2
+    100130: NinjiaDog_RightHandThumb3
+    100132: NinjiaDog_RightLeg
+    100134: NinjiaDog_RightShoulder
+    100136: NinjiaDog_RightToeBase
+    100138: NinjiaDog_RightUpEyelid1
+    100140: NinjiaDog_RightUpEyelid2
+    100142: NinjiaDog_RightUpLeg
+    100144: NinjiaDog_Scroll1
+    100146: NinjiaDog_Scroll2
+    100148: NinjiaDog_Spine
+    100150: NinjiaDog_Spine1
+    100152: NinjiaDog_Spine2
+    100154: NinjiaDog_Tail1
+    100156: NinjiaDog_Tail2
+    100158: NinjiaDog_Tail3
+    100160: NinjiaDog_Tail4
+    100162: NinjiaDog_Tail5
+    100164: NinjiaDog_Tail6
+    100166: NinjiaDog_Tail7
+    400000: joint2NinjiaDog_LeftEar2
+    400002: joint2NinjiaDog_RightEar2
+    400004: Ninjia_Dog
+    400006: Ninjia_Dog_Armbag
+    400008: Ninjia_Dog_Body
+    400010: Ninjia_Dog_Eye
+    400012: Ninjia_Dog_Hat
+    400014: Ninjia_Dog_Scroll
+    400016: Ninjia_Dog_Tongue
+    400018: //RootNode
+    400020: NinjiaDog_Chin1
+    400022: NinjiaDog_Chin2
+    400024: NinjiaDog_Head
+    400026: NinjiaDog_Hips
+    400028: NinjiaDog_LeftArm
+    400030: NinjiaDog_LeftDownEyelid
+    400032: NinjiaDog_LeftDownEyelid1
+    400034: NinjiaDog_LeftEar1
+    400036: NinjiaDog_LeftEar3
+    400038: NinjiaDog_LeftEye
+    400040: NinjiaDog_LeftEye0
+    400042: NinjiaDog_LeftFoot
+    400044: NinjiaDog_LeftForeArm
+    400046: NinjiaDog_LeftHand
+    400048: NinjiaDog_LeftHandIndex1
+    400050: NinjiaDog_LeftHandIndex2
+    400052: NinjiaDog_LeftHandIndex3
+    400054: NinjiaDog_LeftHandMiddle1
+    400056: NinjiaDog_LeftHandMiddle2
+    400058: NinjiaDog_LeftHandMiddle3
+    400060: NinjiaDog_LeftHandRing1
+    400062: NinjiaDog_LeftHandRing2
+    400064: NinjiaDog_LeftHandRing3
+    400066: NinjiaDog_LeftHandThumb1
+    400068: NinjiaDog_LeftHandThumb2
+    400070: NinjiaDog_LeftHandThumb3
+    400072: NinjiaDog_LeftLeg
+    400074: NinjiaDog_LeftShoulder
+    400076: NinjiaDog_LeftToeBase
+    400078: NinjiaDog_LeftUpEyelid
+    400080: NinjiaDog_LeftUpEyelid1
+    400082: NinjiaDog_LeftUpLeg
+    400084: NinjiaDog_Neck
+    400086: NinjiaDog_Reference
+    400088: NinjiaDog_RightArm
+    400090: NinjiaDog_RightDownEyelid1
+    400092: NinjiaDog_RightDownEyelid2
+    400094: NinjiaDog_RightEar1
+    400096: NinjiaDog_RightEar3
+    400098: NinjiaDog_RightEye
+    400100: NinjiaDog_RightEye0
+    400102: NinjiaDog_RightFoot
+    400104: NinjiaDog_RightForeArm
+    400106: NinjiaDog_RightHand
+    400108: NinjiaDog_RightHandIndex1
+    400110: NinjiaDog_RightHandIndex2
+    400112: NinjiaDog_RightHandIndex3
+    400114: NinjiaDog_RightHandMiddle1
+    400116: NinjiaDog_RightHandMiddle2
+    400118: NinjiaDog_RightHandMiddle3
+    400120: NinjiaDog_RightHandRing1
+    400122: NinjiaDog_RightHandRing2
+    400124: NinjiaDog_RightHandRing3
+    400126: NinjiaDog_RightHandThumb1
+    400128: NinjiaDog_RightHandThumb2
+    400130: NinjiaDog_RightHandThumb3
+    400132: NinjiaDog_RightLeg
+    400134: NinjiaDog_RightShoulder
+    400136: NinjiaDog_RightToeBase
+    400138: NinjiaDog_RightUpEyelid1
+    400140: NinjiaDog_RightUpEyelid2
+    400142: NinjiaDog_RightUpLeg
+    400144: NinjiaDog_Scroll1
+    400146: NinjiaDog_Scroll2
+    400148: NinjiaDog_Spine
+    400150: NinjiaDog_Spine1
+    400152: NinjiaDog_Spine2
+    400154: NinjiaDog_Tail1
+    400156: NinjiaDog_Tail2
+    400158: NinjiaDog_Tail3
+    400160: NinjiaDog_Tail4
+    400162: NinjiaDog_Tail5
+    400164: NinjiaDog_Tail6
+    400166: NinjiaDog_Tail7
+    4300000: Ninjia_Dog_Eye
+    4300002: Ninjia_Dog_Armbag
+    4300004: Ninjia_Dog_Hat
+    4300006: Ninjia_Dog_Tongue
+    4300008: Ninjia_Dog_Scroll
+    4300010: Ninjia_Dog_Body
+    9500000: //RootNode
+    13700000: Ninjia_Dog_Armbag
+    13700002: Ninjia_Dog_Body
+    13700004: Ninjia_Dog_Eye
+    13700006: Ninjia_Dog_Hat
+    13700008: Ninjia_Dog_Scroll
+    13700010: Ninjia_Dog_Tongue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: NinjiaDog_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Chin1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: NinjiaDog_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: NinjiaDog(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog
+      parentName: NinjiaDog(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Armbag
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Body
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Eye
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Hat
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Scroll
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ninjia_Dog_Tongue
+      parentName: Ninjia_Dog
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Reference
+      parentName: NinjiaDog(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Hips
+      parentName: NinjiaDog_Reference
+      position: {x: 1.3793603e-33, y: 0.48768702, z: 1.2424171e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail1
+      parentName: NinjiaDog_Hips
+      position: {x: -0, y: -0.015777191, z: -0.14935242}
+      rotation: {x: -0.03250052, y: -0.684709, z: 0.030591024, w: 0.72744864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail2
+      parentName: NinjiaDog_Tail1
+      position: {x: -0.15866643, y: -7.771561e-18, z: -3.5231025e-17}
+      rotation: {x: -0.08181338, y: 0.017360207, z: -0.20684397, w: 0.9747927}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail3
+      parentName: NinjiaDog_Tail2
+      position: {x: -0.1655578, y: -8.755219e-15, z: -3.676196e-17}
+      rotation: {x: 0, y: -0, z: -0.3839009, w: 0.92337435}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail4
+      parentName: NinjiaDog_Tail3
+      position: {x: -0.08466257, y: -0.000094363575, z: -1.879794e-17}
+      rotation: {x: -0.02202766, y: -0.046872374, z: -0.4247531, w: 0.90382665}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail5
+      parentName: NinjiaDog_Tail4
+      position: {x: -0.0800539, y: -0.0012178295, z: -1.7775903e-17}
+      rotation: {x: -0.14921357, y: 0.11596851, z: -0.602598, w: 0.77534664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail6
+      parentName: NinjiaDog_Tail5
+      position: {x: -0.08453539, y: -0.00035864327, z: -1.8749197e-17}
+      rotation: {x: -0.088769555, y: -0.0941045, z: -0.68042046, w: 0.72131294}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Tail7
+      parentName: NinjiaDog_Tail6
+      position: {x: -0.083960414, y: 0.00015298372, z: -1.8612854e-17}
+      rotation: {x: 0, y: 0, z: 0.007489885, w: 0.999972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftUpLeg
+      parentName: NinjiaDog_Hips
+      position: {x: -0.10002267, y: -0.055953484, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftLeg
+      parentName: NinjiaDog_LeftUpLeg
+      position: {x: -0, y: -0.16820596, z: -0.011399935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftFoot
+      parentName: NinjiaDog_LeftLeg
+      position: {x: -0, y: -0.17984578, z: -0.0099749435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftToeBase
+      parentName: NinjiaDog_LeftFoot
+      position: {x: -0.000000085830685, y: -0.07146595, z: 0.124404065}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightUpLeg
+      parentName: NinjiaDog_Hips
+      position: {x: 0.10002267, y: -0.055953484, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightLeg
+      parentName: NinjiaDog_RightUpLeg
+      position: {x: -0, y: -0.16820596, z: -0.011399935}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightFoot
+      parentName: NinjiaDog_RightLeg
+      position: {x: -0, y: -0.17984578, z: -0.0099749435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightToeBase
+      parentName: NinjiaDog_RightFoot
+      position: {x: 0.000000085830685, y: -0.07146595, z: 0.124404065}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Spine
+      parentName: NinjiaDog_Hips
+      position: {x: 1.7140682e-33, y: 0.06953087, z: 1.5438954e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Spine1
+      parentName: NinjiaDog_Spine
+      position: {x: -1.5919599e-17, y: 0.143391, z: 7.959799e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Spine2
+      parentName: NinjiaDog_Spine1
+      position: {x: -3.1839188e-17, y: 0.14339095, z: 1.2735675e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Scroll1
+      parentName: NinjiaDog_Spine2
+      position: {x: -0, y: 0.062386006, z: -0.0035910166}
+      rotation: {x: -0.27059805, y: -0.6532815, z: 0.27059805, w: 0.6532815}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Scroll2
+      parentName: NinjiaDog_Scroll1
+      position: {x: -0.33917862, y: -7.105427e-17, z: -3.765639e-17}
+      rotation: {x: 0, y: -0, z: -0.06014337, w: 0.99818975}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftShoulder
+      parentName: NinjiaDog_Spine2
+      position: {x: -0.13571072, y: 0.09635528, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftArm
+      parentName: NinjiaDog_LeftShoulder
+      position: {x: -0.06709576, y: 0.000001373291, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftForeArm
+      parentName: NinjiaDog_LeftArm
+      position: {x: -0.18709789, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHand
+      parentName: NinjiaDog_LeftForeArm
+      position: {x: -0.17208195, y: 1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandThumb1
+      parentName: NinjiaDog_LeftHand
+      position: {x: -0.055649985, y: -0.007931518, z: 0.06597984}
+      rotation: {x: -0.089121714, y: 0.054296184, z: -0.09886113, w: 0.98961395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandThumb2
+      parentName: NinjiaDog_LeftHandThumb1
+      position: {x: -0.028858298, y: -0.013887558, z: 0.018388033}
+      rotation: {x: -0.044093624, y: 0.09152932, z: -0.000073307194, w: 0.9948257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandThumb3
+      parentName: NinjiaDog_LeftHandThumb2
+      position: {x: -0.034261856, y: -0.016497878, z: 0.009480009}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandIndex1
+      parentName: NinjiaDog_LeftHand
+      position: {x: -0.12474586, y: 0.0019838715, z: 0.042542394}
+      rotation: {x: 0.0006438585, y: -0.028604506, z: -0.03380317, w: 0.9990189}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandIndex2
+      parentName: NinjiaDog_LeftHandIndex1
+      position: {x: -0.033477552, y: -0.005509567, z: 0.004024572}
+      rotation: {x: 0, y: -0.000005316577, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandIndex3
+      parentName: NinjiaDog_LeftHandIndex2
+      position: {x: -0.040524554, y: -0.006658554, z: 0.004017989}
+      rotation: {x: 0, y: 0.00007443208, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandMiddle1
+      parentName: NinjiaDog_LeftHand
+      position: {x: -0.13058692, y: 0.0037737272, z: -0.005680702}
+      rotation: {x: 0.000558668, y: -0.0002083359, z: -0.012980957, w: 0.9999156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandMiddle2
+      parentName: NinjiaDog_LeftHandMiddle1
+      position: {x: -0.03233856, y: -0.005293121, z: -0.0013068198}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandMiddle3
+      parentName: NinjiaDog_LeftHandMiddle2
+      position: {x: -0.04523712, y: -0.0074044033, z: -0.0018280607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandRing1
+      parentName: NinjiaDog_LeftHand
+      position: {x: -0.123635404, y: -0.0031092833, z: -0.05648171}
+      rotation: {x: 0.0017590694, y: 0.01882255, z: -0.027933145, w: 0.999431}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandRing2
+      parentName: NinjiaDog_LeftHandRing1
+      position: {x: -0.027757874, y: -0.0046081543, z: -0.0048532058}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftHandRing3
+      parentName: NinjiaDog_LeftHandRing2
+      position: {x: -0.033768997, y: -0.0056063076, z: -0.005904217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightShoulder
+      parentName: NinjiaDog_Spine2
+      position: {x: 0.13571072, y: 0.09635528, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightArm
+      parentName: NinjiaDog_RightShoulder
+      position: {x: 0.06709576, y: 0.000001373291, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightForeArm
+      parentName: NinjiaDog_RightArm
+      position: {x: 0.18709789, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHand
+      parentName: NinjiaDog_RightForeArm
+      position: {x: 0.17208195, y: 1.4210854e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandThumb1
+      parentName: NinjiaDog_RightHand
+      position: {x: 0.055649985, y: -0.007931518, z: 0.06597984}
+      rotation: {x: -0.089121714, y: -0.054296184, z: 0.09886113, w: 0.98961395}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandThumb2
+      parentName: NinjiaDog_RightHandThumb1
+      position: {x: 0.028858298, y: -0.013887558, z: 0.018388033}
+      rotation: {x: -0.044093624, y: -0.09152932, z: 0.000073307194, w: 0.9948257}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandThumb3
+      parentName: NinjiaDog_RightHandThumb2
+      position: {x: 0.034261856, y: -0.016497878, z: 0.009480009}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandIndex1
+      parentName: NinjiaDog_RightHand
+      position: {x: 0.12474586, y: 0.0019838715, z: 0.042542394}
+      rotation: {x: 0.0006438585, y: 0.028604506, z: 0.03380317, w: 0.9990189}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandIndex2
+      parentName: NinjiaDog_RightHandIndex1
+      position: {x: 0.033477552, y: -0.005509567, z: 0.004024572}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandIndex3
+      parentName: NinjiaDog_RightHandIndex2
+      position: {x: 0.04052464, y: -0.006658554, z: 0.004017127}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandMiddle1
+      parentName: NinjiaDog_RightHand
+      position: {x: 0.13058692, y: 0.0037737272, z: -0.005680702}
+      rotation: {x: 0.000558668, y: 0.0002083359, z: 0.012980957, w: 0.9999156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandMiddle2
+      parentName: NinjiaDog_RightHandMiddle1
+      position: {x: 0.03233856, y: -0.005293121, z: -0.0013068198}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandMiddle3
+      parentName: NinjiaDog_RightHandMiddle2
+      position: {x: 0.0452371, y: -0.0074044033, z: -0.0018285417}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandRing1
+      parentName: NinjiaDog_RightHand
+      position: {x: 0.123635404, y: -0.0031092833, z: -0.05648171}
+      rotation: {x: 0.0017590694, y: -0.01882255, z: 0.027933145, w: 0.999431}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandRing2
+      parentName: NinjiaDog_RightHandRing1
+      position: {x: 0.027757874, y: -0.0046081543, z: -0.0048532058}
+      rotation: {x: 0, y: -0.0000053167487, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightHandRing3
+      parentName: NinjiaDog_RightHandRing2
+      position: {x: 0.033768933, y: -0.0056063076, z: -0.0059045753}
+      rotation: {x: 0, y: 0.00007443448, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Neck
+      parentName: NinjiaDog_Spine2
+      position: {x: -3.18392e-17, y: 0.14339103, z: 1.5919604e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Head
+      parentName: NinjiaDog_Neck
+      position: {x: -9.0131856e-17, y: 0.27061188, z: 3.9057137e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftEar1
+      parentName: NinjiaDog_Head
+      position: {x: -0.19306087, y: 0.12925126, z: -0.043777797}
+      rotation: {x: 0.06426326, y: 0.07700106, z: -0.6375167, w: 0.7638806}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2NinjiaDog_LeftEar2
+      parentName: NinjiaDog_LeftEar1
+      position: {x: -0.102819525, y: -8.881784e-18, z: 0}
+      rotation: {x: -0.0001044274, y: 0.10762994, z: 0.0009646083, w: 0.9941906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftEar3
+      parentName: joint2NinjiaDog_LeftEar2
+      position: {x: -0.10451582, y: -3.8058444e-15, z: 0}
+      rotation: {x: 0, y: -0, z: -0.015990084, w: 0.99987215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightEar1
+      parentName: NinjiaDog_Head
+      position: {x: 0.19306101, y: 0.12924723, z: -0.043777797}
+      rotation: {x: 0.7638806, y: 0.6375167, z: 0.07700106, w: -0.06426326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2NinjiaDog_RightEar2
+      parentName: NinjiaDog_RightEar1
+      position: {x: 0.102823496, y: -0.00000062609905, z: 0.00000082605857}
+      rotation: {x: -0.00010441457, y: 0.10762994, z: 0.0009646097, w: 0.9941906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightEar3
+      parentName: joint2NinjiaDog_RightEar2
+      position: {x: 0.104516596, y: -0.00000026774032, z: 0.00000028918132}
+      rotation: {x: 0.000000014905702, y: -2.3837396e-10, z: -0.015990088, w: 0.99987215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Chin1
+      parentName: NinjiaDog_Head
+      position: {x: -0, y: -0.18030776, z: 0.13710332}
+      rotation: {x: 0.101323426, y: 0.6998097, z: 0.101323426, w: 0.6998097}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_Chin2
+      parentName: NinjiaDog_Chin1
+      position: {x: -0.12369663, y: 0, z: 1.9721522e-33}
+      rotation: {x: 0, y: -0, z: -0.00101058, w: 0.9999995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightUpEyelid2
+      parentName: NinjiaDog_Head
+      position: {x: 0.10124581, y: -0.06648894, z: 0.10125692}
+      rotation: {x: -0.12590596, y: 0.6958072, z: -0.12590596, w: 0.6958072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightUpEyelid1
+      parentName: NinjiaDog_RightUpEyelid2
+      position: {x: -0.085899234, y: 0.0008334001, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0.01442488, w: 0.999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftUpEyelid
+      parentName: NinjiaDog_Head
+      position: {x: -0.10124581, y: -0.06648894, z: 0.10125692}
+      rotation: {x: -0.12590596, y: 0.6958072, z: -0.12590596, w: 0.6958072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftUpEyelid1
+      parentName: NinjiaDog_LeftUpEyelid
+      position: {x: -0.085899234, y: 0.0008334001, z: -1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0.01442488, w: 0.999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightDownEyelid2
+      parentName: NinjiaDog_Head
+      position: {x: 0.101246, y: -0.06649277, z: 0.101257}
+      rotation: {x: 0.12590596, y: -0.6958072, z: -0.12590596, w: 0.6958072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightDownEyelid1
+      parentName: NinjiaDog_RightDownEyelid2
+      position: {x: 0.08589824, y: -0.00083184545, z: -1.7763568e-17}
+      rotation: {x: 0.000000012903443, y: -1.8614997e-10, z: -0.01442488, w: 0.999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftDownEyelid
+      parentName: NinjiaDog_Head
+      position: {x: -0.101246, y: -0.06649277, z: 0.101257}
+      rotation: {x: 0.12590596, y: -0.6958072, z: -0.12590596, w: 0.6958072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftDownEyelid1
+      parentName: NinjiaDog_LeftDownEyelid
+      position: {x: 0.08589824, y: -0.00083184545, z: -1.7763568e-17}
+      rotation: {x: 0.000000012903443, y: -1.8614997e-10, z: -0.01442488, w: 0.999896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftEye
+      parentName: NinjiaDog_Head
+      position: {x: -0.10124581, y: -0.06648894, z: 0.10125692}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_LeftEye0
+      parentName: NinjiaDog_LeftEye
+      position: {x: 2.6645352e-17, y: 8.4282094e-17, z: 0.07945589}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightEye
+      parentName: NinjiaDog_Head
+      position: {x: 0.101246, y: -0.06649276, z: 0.101257}
+      rotation: {x: 0, y: 0.0020586338, z: -0, w: 0.9999979}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NinjiaDog_RightEye0
+      parentName: NinjiaDog_RightEye
+      position: {x: -0, y: 0, z: 0.079456}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,8 @@
+[
+	{"Field":"good","id":"物品ID","prefabName":"模型名称","icon":"图标","name":"名称","dec":"说明","firing_rate":"射速","range":"射程","hit_rate":"命中","weight":"重量","bomb_capacity":"容弹量","Reload":"换弹速度","show_range":"显示射程","show_power":"显示威力","a":"散布系数","b":"散布圈半径","c":"类型"},
+	{"Field":"type","id":"str","prefabName":"str","icon":"str","name":"str","dec":"str","firing_rate":"int","range":"int_s","hit_rate":"int","weight":"int","bomb_capacity":"int","Reload":"float","show_range":"int","show_power":"int","a":"int","b":"int","c":"int"},
+	{"Field":"value","id":"1001","prefabName":"ScatterGun","icon":"ScatterGun","name":"霰弹枪","dec":"很好的霰弹枪","firing_rate":"300","range":"10,30;15,20;20,10;50,5","hit_rate":"50","weight":"25","bomb_capacity":"10","Reload":"1.2","show_range":"40","show_power":"80","a":"1","b":"15","c":"近战"},
+	{"Field":"value","id":"1002","prefabName":"Rifle","icon":"Rifle","name":"步枪","dec":"很好的步枪","firing_rate":"150","range":"10,200;20,150;30,120;50,100","hit_rate":"50","weight":"20","bomb_capacity":"30","Reload":"1.5","show_range":"40","show_power":"70","a":"2","b":"8","c":"中距离"},
+	{"Field":"value","id":"1003","prefabName":"Pistol","icon":"Pistol","name":"手枪","dec":"很好的手枪","firing_rate":"200","range":"10,100;20,80;30,60;50,50","hit_rate":"50","weight":"10","bomb_capacity":"15","Reload":"1","show_range":"40","show_power":"50","a":"3","b":"5","c":"初始"},
+	{"Field":"value","id":"1004","prefabName":"Gatlin","icon":"Gatlin","name":"机枪","dec":"很好的机枪","firing_rate":"201","range":"10,100;20,80;30,60;50,51","hit_rate":"50","weight":"30","bomb_capacity":"100","Reload":"1","show_range":"40","show_power":"60","a":"1","b":"10","c":"远距离"}
+]
